@@ -1,0 +1,377 @@
+<document>
+<metadata>
+<type>novel_chapters</type>
+<volume>9</volume>
+<chapters>240, 241, 242</chapters>
+<source_file>ch240_242.txt</source_file>
+</metadata>
+
+<content>
+<chapter number="240" volume="9">
+<title>Ta Nghĩ Cô Có Thể Xử Lý Được</title>
+<text>
+Ngay khi những lời đó vừa thốt ra, bầu không khí lập tức rơi vào một sự im lặng gượng gạo.
+
+“Ừm… chuyện này chẳng phải hơi… quá đáng sao…”
+
+Dephil, dù đang đóng vai trò là người hướng dẫn tạm thời, nhưng thực chất vẫn chỉ là một cô bé thường dân chưa đến tuổi trưởng thành. Cô bé chưa bao giờ chứng kiến cảnh tượng nào như thế này. Dephil khẽ lên tiếng thắc mắc, nhưng áp lực nhàn nhạt tỏa ra từ gã nhân viên khiến cô bé co rụt lại. Cô bé nhanh chóng cúi đầu, lắp bắp không dám nói thêm lời nào.
+
+Ngược lại, Valentia tuy bề ngoài trông có vẻ dịu dàng và mềm mỏng, nhưng nàng không phải là người để kẻ khác tùy ý chèn ép. Năm đó, ngay cả dưới uy quyền gần như tuyệt đối của Enoch, nàng còn dám lẻn ra ngoài để quyết chiến với Avrilia. So với chuyện đó, tình cảnh này chẳng là gì cả.
+
+Nàng thản nhiên kéo cô bé tai thỏ đang sợ hãi ra sau lưng, bước lên phía trước đối mặt với gã nhân viên.
+
+“Thưa ngài, chúng tôi chỉ là du khách đến tham quan Tuyết Lạc điện. Chúng tôi không tham gia vào bất kỳ kế hoạch hay hành động gây hại nào, cũng chưa từng vi phạm bất kỳ điều luật nào của Tuyết quốc.”
+
+“Theo tôi được biết, dưới luật pháp của Tuyết quốc, trừ khi chính Thánh nữ ban lệnh, ngay cả Vĩnh Đông Thần điện cũng không có quyền giam giữ công dân lương thiện hay hạn chế tự do của họ mà không có lý do chính đáng. Hành động này vừa không hợp pháp vừa không hợp lý. Chúng tôi hoàn toàn có quyền đệ đơn khiếu nại lên Lãnh chúa Pháo đài.”
+
+“Hay là, luật pháp của Tuyết quốc giờ đây chỉ còn là những lời sáo rỗng, hữu danh vô thực?”
+
+Tông giọng của nàng không hề hung hăng, giọng nói vẫn giữ được sự bình tĩnh và kiên định. Tuy nhiên, sắc mặt của gã nhân viên lập tức thay đổi. Đối mặt với những cáo buộc nặng nề trút xuống mình, gã rõ ràng lúng túng không biết đáp lại ra sao, trông có vẻ khá xấu hổ.
+
+Thực tế, trong tình huống như thế này, mọi chuyện sẽ dễ dàng hơn cho họ nếu du khách hoảng loạn và phục tùng, hoặc nếu họ nổi giận, gây gổ, cố gắng xông ra ngoài, hay thậm chí là ẩu đả với nhân viên. Bất kỳ phản ứng nào trong số đó cũng sẽ cho họ một cái cớ rõ ràng để tạm giữ những người liên quan.
+
+Đó là một lý do khiến gã nhân viên tỏ ra cứng rắn như vậy lúc đầu. Tình huống xảy ra quá đột ngột, và họ không có nhiều lựa chọn. Miễn là họ có thể biện minh cho hành động của mình, kết quả tệ nhất cũng chỉ là trả thêm tiền bồi thường sau đó. Dù sao thì thế lực đứng sau Tuyết Lạc điện cũng đủ mạnh để chống đỡ những rắc rối như vậy, ngay cả khi không thể hoàn toàn phớt lờ luật pháp đế quốc.
+
+Tuy nhiên—
+
+Những vị khách bình tĩnh, lý trí và không hề tỏ ra sợ hãi trước quyền lực đứng sau nhân viên lại là những người khó đối phó nhất. Thái độ đó không chỉ gợi ý về năng lực và sự tự chủ mạnh mẽ, mà còn về khả năng có một bối cảnh quyền lực tương đương.
+
+Nghĩ đến đó, gã thanh niên trong bộ đồng phục nhân viên khẽ đảo mắt. Thái độ cứng rắn của gã lập tức dịu đi, thay vào đó là một nụ cười lịch sự và chừng mực.
+
+Gã liếc nhìn những du khách khác trong sảnh, những người vẫn còn hơi ồn ào nhưng đã bắt đầu được các nhân viên khác hướng dẫn ra ngoài một cách trật tự. Sau đó, gã nhìn lại Valentia, bắt gặp ánh mắt trong trẻo mang theo chút dò xét và uy quyền tĩnh lặng của nàng. Trong lòng gã cảm thấy khổ sở, nhưng chỉ có thể xoa tay cố gắng thương lượng.
+
+“Haha… Tôi thực sự xin lỗi. Có lẽ vừa rồi tôi đã lỡ lời quá mức. Xin đừng hiểu lầm, đây tuyệt đối không phải là giam giữ hay cưỡng ép. Đây chỉ là một biện pháp khẩn cấp do tính chất cấp bách của tình hình.”
+
+“Sự cố này quả thực là trách nhiệm của chúng tôi, và nó đã làm hỏng chuyến tham quan của quý khách. Hay là thế này, sau khi việc kiểm tra kết thúc, chúng tôi sẽ miễn toàn bộ phí vào cửa cho quý khách và cung cấp thêm một khoản bồi thường. Trong thời gian chờ đợi, nơi này sẽ cung cấp dịch vụ tốt nhất có thể. Chúng tôi chỉ mong nhận được sự hợp tác của quý khách. Như vậy có được không?”
+
+“……”
+
+Valentia khẽ nhíu mày. Nàng không muốn lãng phí khoảng thời gian đi chơi hiếm hoi và quý giá này vào việc chờ đợi vô ích. Tuy nhiên, nàng không phải là người vô lý. Vì đối phương đã hạ mình và gần như van nài, nàng cảm thấy thật không phải nếu cứ tiếp tục lên mặt và gây khó dễ cho một người có lẽ chỉ đang làm theo mệnh lệnh như một người làm công ăn lương.
+
+Nàng liếc nhìn vị mục sư, người nãy giờ hoàn toàn không tham gia vào cuộc đối thoại và trông như thực sự chẳng bận tâm. Sau đó, ánh mắt nàng chuyển sang Dephil, cô bé đã trốn sau lưng nàng, rõ ràng là sợ không dám nói và hiển nhiên là để toàn quyền quyết định cho cô gái ma cà rồng. Sau khi suy nghĩ một chút, nàng chỉ có thể bất lực gật đầu.
+
+“Được rồi. Tôi hy vọng chuyện này thực sự cần thiết. Và đừng để mất quá nhiều thời gian.”
+
+“Vâng, vâng! Cảm ơn sự thấu hiểu của quý khách. Mời đi theo tôi!”
+
+Gã nhân viên thở phào nhẹ nhõm, sự căng thẳng trên mặt gã rõ ràng đã vơi bớt. Gã nhanh chóng quay người dẫn đường, và ba cô gái đi theo gã vào một sảnh phụ.
+
+Chẳng bao lâu sau, gã dẫn họ đi qua sảnh chính giờ đã gần như trống rỗng và tiến vào một tòa nhà phụ bên cạnh Tuyết Lạc điện, có lẽ được dùng để xử lý các tình huống khẩn cấp khác nhau.
+
+Đúng như gã đã nói, một lượng lớn du khách từ các khu vực khác nhau của địa điểm tham quan đã được tập trung tại đây và tạm thời ổn định chỗ ngồi.
+
+Nhìn sơ qua, có ít nhất vài trăm người.
+
+Chỉ bằng một cái liếc mắt, Willis đã nhận ra những bóng người mặc đồng phục đứng tại các điểm trọng yếu khắp sảnh phụ. Sự hiện diện của họ im lặng và nặng nề. Mặc dù họ không công khai rút ra bất kỳ vũ khí nào và trông không khác gì nhân viên bình thường đang giữ trật tự, nhưng ngay cả Valentia, người có kinh nghiệm tương đối hạn chế, cũng có thể dễ dàng đoán ra họ thực sự là ai.
+
+“Họ đã huy động nhiều chấp pháp giả của Thần điện cùng lúc như vậy. Rốt cuộc đã xảy ra chuyện gì?” Cô gái ma cà rồng hỏi, vẻ mặt trở nên nghiêm túc.
+
+Phái đoàn ma cà rồng của nàng vừa mới đến Băng Liên pháo đài ngày hôm nay. Lẽ tự nhiên, nàng hy vọng mọi thứ sẽ diễn ra suôn sẻ và an toàn trong suốt thời gian lưu trú. Nếu một sự cố lớn nổ ra, rắc rối chắc chắn sẽ ập đến.
+
+Tuy nhiên, vị tiểu thư mục sư vẫn trông có vẻ thản nhiên, như thể cô đã quá quen với những sự kiện lộn xộn và đột ngột như thế này. Cô tò mò nhìn quanh, trông còn tràn đầy năng lượng hơn cả khi đang bình thản tham quan lúc nãy.
+
+“Thả lỏng đi, thả lỏng đi. Trời sập đã có kẻ cao hơn chống đỡ. Sẽ không có chuyện gì lớn đâu,” cô nhẹ nhàng nói. “Thực ra, thấy nhiều chấp pháp giả Thần điện mặc thường phục xuất hiện nhanh như vậy, cô không cảm thấy có gì đó hơi sai sai sao?”
+
+“?”
+
+Valentia vẻ mặt bối rối, sau đó hơi khựng lại như thể vừa nhận ra điều gì đó. Nàng định lên tiếng, nhưng ánh mắt lại rơi vào gã nhân viên đang dẫn đường phía trước. Cuối cùng, nàng kìm lại không nói ra ngay.
+
+Đúng vậy… sao họ lại đến nhanh như thế?
+
+Có lẽ vì cuộc trò chuyện trước đó, và mặc dù đã sử dụng một số biện pháp cải trang đơn giản khiến danh tính thực sự của họ không bị lộ, nhân viên vẫn có thể nhận ra nhóm này không phải tầm thường, và cuối cùng đã dành cho họ sự đối xử đặc biệt.
+
+Thay vì đặt Willis và những người khác vào khu vực chính đông đúc và lộn xộn của sảnh phụ, nơi đầy rẫy những du khách bị tập trung tạm thời, nhân viên dẫn họ vào sâu hơn bên trong, tới một phòng nghỉ nhỏ nhắn và sạch sẽ. Họ thậm chí còn chu đáo cung cấp đồ uống và đồ ngọt đơn giản.
+
+Nơi này không sang trọng, nhưng yên tĩnh và thoải mái.
+
+Sau khi sắp xếp xong, gã nhân viên nhanh chóng cáo lui. Mặc dù không nói trực tiếp, nhưng cả Willis và Valentia đều có thể dễ dàng cảm nhận được rằng hai chấp pháp giả Thần điện có năng lực đã sớm thay thế gã, đứng canh gác bên ngoài căn phòng.
+
+Ý đồ đã quá rõ ràng.
+
+Tuy nhiên, đối phương vẫn giữ được sự chừng mực nhất định. Dù hạn chế tự do đi lại, họ không làm bất kỳ hành động khiếm nhã nào như rình mò hay nghe lén. Hai người phụ nữ chấp nhận điều đó và đơn giản là coi như những người kia không tồn tại.
+
+Vì không biết sẽ phải ở lại bao lâu, Willis thản nhiên lấy ra một cuốn tiểu thuyết và ngồi trên ghế sofa, chậm rãi giết thời gian.
+
+Valentia dường như đang suy nghĩ về điều gì đó nàng đã nhận ra trước đó và ngồi im lặng, đắm chìm trong suy tư. Còn về người hướng dẫn bị kéo vào mớ hỗn độn này không rõ lý do…
+
+“Ừm… vậy… tôi có thể ăn mấy thứ này không?”
+
+Sau một lúc lâu, giọng nói yếu ớt của cô bé tai thỏ cuối cùng cũng phá vỡ sự im lặng trong phòng nghỉ. Hai người phụ nữ, những người vừa bị cắt ngang dòng suy nghĩ, đồng thời quay sang nhìn cô bé. Chỉ thấy cô bé vẫn đang đứng bên bàn, nhìn chằm chằm vào những đĩa đồ ngọt và trái cây khô, gần như chảy nước miếng. Họ nhìn nhau và không nhịn được mà bật cười bất lực.
+
+“Tất nhiên là được rồi, tiểu thư Dephil. Em thậm chí có thể ăn hết nếu muốn. Dù sao thì rắc rối này cũng liên lụy đến em vì chúng ta. Lát nữa chúng ta sẽ trả em gấp ba lần tiền công, coi như là bồi thường,” Valentia mỉm cười nói.
+
+“C-chuyện đó có vẻ không đúng lắm… eheh…”
+
+Cô bé tai thỏ vẫn đang lịch sự từ chối bằng lời nói, nhưng ngay khoảnh khắc nhận được sự cho phép, đôi tay nhỏ nhắn của cô bé đã vươn ra. Cô bé chộp lấy vài miếng trái cây khô trông hơi khô khốc và nhét thẳng vào miệng.
+
+“Mmm…! Ngon quá~! Nó còn ngọt hơn cả viên kẹo mà mẹ em mang về hồi đó nữa?!”
+
+“Nó thực sự tuyệt vời đến thế sao…?”
+
+Nhìn chú “thỏ nhỏ” ôm mặt hạnh phúc, trông như vừa được nếm món ăn ngon nhất thế gian, vị mục sư đặt cuốn tiểu thuyết xuống và nhìn những món đồ ngọt trên bàn với vẻ nghi hoặc.
+
+Thức ăn do nơi này cung cấp không hề tệ, nhưng chất lượng cũng chẳng có gì đặc biệt. Đối với Willis, người đã quen với những món cao lương mỹ vị, đây là những thứ cô thậm chí sẽ không thèm liếc mắt nhìn, chứ đừng nói đến việc ăn.
+
+Nhưng khi cô nhớ lại việc Dephil lúc đầu đã đưa ra một mức giá thấp đến đáng thương chỉ vài đồng xu đồng cho việc dẫn đường, và cô bé đã sốc và hạnh phúc thế nào khi những đồng xu đó biến thành bạc, kết hợp với tình trạng thiếu hụt lương thực ngày càng tăng ở phương Bắc, mọi thứ đột nhiên trở nên hợp lý.
+
+Valentia cũng nhận ra cảnh tượng đó. Nhìn cô bé nhỏ nhắn trong bộ quần áo vải thô, với những mảnh vá có thể nhìn thấy được, vừa ăn vừa bí mật nhét trái cây khô vào túi, nàng dường như thẫn thờ trong giây lát, chìm vào suy nghĩ.
+
+Một lúc sau, cô gái ma cà rồng nhìn lại vị mục sư và khẽ lẩm bẩm, gần như là đang nói với chính mình.
+
+“Tiểu thư Willis… cô có nghĩ… tôi thực sự có thể thay đổi tất cả những điều này không?”
+
+Nghe như một câu hỏi, và cũng giống như nàng đang tự vấn chính mình. Chậm rãi, ánh mắt của cô gái tên Valentia Constantius tập trung trở lại, và luồng sáng mờ ảo ẩn giấu trong mắt nàng trở nên sắc bén và kiên định hơn.
+
+“Cô có thể. Cô chắc chắn có thể.”
+
+“……pfft~”
+
+Willis không giải thích. Cô chỉ che miệng và bật ra một tiếng cười nhỏ mà cô không thể kìm lại được.
+
+“Ơ!? C-có gì đáng cười ở chuyện đó sao?”
+
+“Không, không, đừng hiểu lầm. Ta không cười cô đâu,” Willis nhanh chóng nói. “Ta chỉ chợt nghĩ, nếu cô ra ngoài sớm hơn hai năm và tình cờ tham gia cuộc tuyển chọn anh hùng ở phương Nam, có lẽ cô cũng đã được chọn làm một trong những ‘Anh hùng’ rồi.”
+
+Cô gái ma cà rồng khựng lại một chút, rõ ràng không ngờ tới một nhận xét kỳ lạ như vậy. Sau đó, như thể đột nhiên nhận ra điều gì đó, đôi má nàng đỏ bừng.
+
+“L-làm sao một người như tôi có thể đủ tư cách chứ…? Xin đừng đùa giỡn về một điều thiêng liêng như nghi lễ đó!”
+
+“Ơ? Ta đâu có đùa chút nào. Tiểu thư Valentia vừa đáng yêu, vừa tốt bụng, lại vừa hiểu chuyện. Nếu Nữ thần thực sự nhìn thấy cô, có khi Ngài cũng sẽ yêu cô ngay từ cái nhìn đầu tiên đấy~”
+
+“T-Tiểu—Tiểu thư Willis! Đủ rồi đó!!!”
+</text>
+</chapter>
+<chapter number="241" volume="9">
+<title>Thiếu Nữ Xui Xẻo Và Cuộc Đào Thoát Vĩ Đại</title>
+<text>
+“Ôi, Mẫu Thần của con ơi… Mẫu Thần ơi… Lần này Ngài thực sự đẩy con vào rắc rối lớn rồi…”
+
+Giống như một con thạch sùng bám chặt vào xà ngang trần nhà, cô gái tên Sasha cố gắng hết sức để giữ thăng bằng và ẩn mình, trong khi lắng nghe tiếng bước chân dồn dập, hỗn loạn đang tiến lại gần từ xa. Cô không nhịn được mà nở một nụ cười cay đắng.
+
+Hôm nay, có vẻ như cô đã chạm tới đỉnh cao tuyệt đối của sự xui xẻo.
+
+Vậy thì, làm thế nào mà mọi chuyện lại đi đến mức này?
+
+Sasha cúi nhìn vật thể nhỏ chỉ bằng lòng bàn tay được buộc vội vàng ở thắt lưng. Mặc dù nó đã được bọc trong những lớp da thú dày, nhưng những luồng hơi lạnh vẫn rò rỉ ra ngoài. Vẻ bất lực trên khuôn mặt cô càng sâu sắc hơn.
+
+Thành thật mà nói, cô chưa bao giờ ngờ rằng đường hầm dài dằng dặc đó cuối cùng lại dẫn đến bên trong một cung điện sang trọng và phức tạp, ở cuối lối đi bí mật từ Quán rượu Guru. Cô cũng không tưởng tượng được rằng sau khi thoát ra, cô không tìm thấy con quái vật mình đang tìm kiếm, mà thay vào đó lại đâm sầm vào một ma pháp trận huyền bí đang hoạt động.
+
+Trận pháp đó không chỉ cực kỳ phức tạp, mà năng lượng chảy qua nó còn khổng lồ đến mức gây sốc. Vì lý do an toàn, tiểu thư Sasha chỉ định đứng ngoài quan sát chứ không can thiệp.
+
+Và, ừ thì… đó là kế hoạch.
+
+Nhưng không hiểu sao, ngay khoảnh khắc cô lẻn đến gần rìa trận pháp, trước khi cô kịp làm gì, mô thức ma pháp vốn đang ổn định đột nhiên trở nên hỗn loạn, như thể có một ngoại lực cực lớn nào đó đã phá vỡ nó.
+
+Ma pháp trào ngược với một tiếng gầm vang dội. Chỉ trong vài giây, trước khi một Sasha đang sững sờ kịp phản ứng, bệ thờ trung tâm, nơi rõ ràng điều khiển trận pháp, đột nhiên phát nổ!
+
+Và… đó là lúc cô bị phát hiện.
+
+Cái mớ hỗn độn gì thế này?!
+
+Phần nực cười nhất là, khối tinh thể màu xanh băng giá vốn nằm trên bệ thờ, chẳng ai biết công dụng của nó là gì, lại không bị phá hủy bởi vụ nổ. Thay vào đó, nó bị hất văng ra bởi xung lực, vẽ một đường vòng cung trên không trung và rơi xuống cách Sasha không xa.
+
+Cô có thể làm gì đây?
+
+Thử nghĩ mà xem. Trong tình huống như thế này, không người bình thường nào có thể giả vờ như mình chưa thấy gì.
+
+Người canh giữ trận pháp đã nhận ra sự hiện diện của cô. Là vị khách không mời duy nhất, Sasha biết rằng sẽ chẳng có ai tin bệ thờ tự phát nổ mà không có sự can thiệp của cô.
+
+Vì vậy… cô phải chạy. Cô không còn lựa chọn nào khác ngoài việc chạy trốn.
+
+Vì dù sao cũng đã mang danh tội phạm, cô nghĩ mình nên chộp lấy một vài “con bài” trên đường thoát ra. Cô không biết khối tinh thể hay mục đích chính xác của trận pháp là gì, nhưng nó rõ ràng là phi thường, thậm chí có thể hữu dụng.
+
+Với ý nghĩ đó, tiểu thư Sasha không hề do dự. Cô chộp lấy khối tinh thể dưới đất và chạy thục mạng.
+
+Sau đó, cô vừa chạy vừa trốn qua những sảnh đường xa lạ của cung điện. Dần dần, ngày càng nhiều kẻ thù mạnh mẽ bị thu hút về phía cô, cả về chất lượng lẫn số lượng. Cung điện dường như là một cái bẫy chết chóc, bất cứ nơi nào cô đi qua, kẻ thù đều đang săn lùng cô. Sasha buộc phải liên tục thay đổi hướng đi, đôi khi lại chạy sâu hơn vào trong cung điện.
+
+Càng chạy, cô càng trở nên sợ hãi. Hệ thống phòng thủ của cung điện vượt xa mức bình thường. Trong cuộc đào thoát, cô đã chạm trán với những đối thủ ít nhất là cấp độ Truyền kỳ không chỉ một lần. Không giống như những sát thủ cô từng đối mặt trước đây, những kẻ thù này sử dụng những phương thức rất dễ nhận diện. Không còn nghi ngờ gì nữa, họ là những chấp hành giả và chấp pháp giả của Vĩnh Đông Thần điện.
+
+Một vài nghi vấn mơ hồ của Sasha dường như đã được xác nhận, và lòng cô càng trĩu nặng hơn.
+
+Mặc dù Sasha là một cung thủ, nhưng so với sư phụ của cô, tiểu thư Flora, người chuyên tu hoàn toàn về cung thuật, phong cách của Sasha linh hoạt và khó lường hơn nhiều, gần giống như một đạo tặc. Đó là lý do tại sao cô có thể sống sót sau cuộc truy đuổi gần như điên cuồng, tạm thời trốn thoát đến nơi này.
+
+Nhưng tình trạng này không thể kéo dài.
+
+Vấn đề không chỉ là số lượng chấp pháp giả bên ngoài đang săn lùng cô ngày càng tăng. Khối tinh thể kỳ lạ mà cô chộp được khi bỏ chạy cũng đang khiến cô đau đầu dữ dội.
+
+Sasha đã nhận ra trong khi chạy. Khối tinh thể này không thể cất giữ trong bất kỳ vật phẩm lưu trữ nào.
+
+Điều này khiến cô bối rối.
+
+Thông thường, một vật phẩm không thể đặt vào thiết bị lưu trữ chỉ vì hai lý do. Hoặc nó là một vật phẩm ma pháp có đặc tính không gian riêng, hoặc nó là một sinh vật sống.
+
+Nhưng khối tinh thể này trông không giống cả hai loại đó. Mặc dù Sasha chỉ là một chuyên gia bán thời gian về ma pháp, cô đã nghiên cứu đủ để nhận biết nhiều loại vật thể, và cô chưa bao giờ thấy thứ gì kỳ lạ như thế này.
+
+Vì không thể cất giữ, cô phải bọc nó trong lớp da thú dày và treo lên người.
+
+Ngay cả như vậy, hơi lạnh tỏa ra từ khối tinh thể dường như xuyên thấu vào tận xương tủy. Dù đã có nhiều lớp bảo vệ, nó vẫn không thể bị ngăn chặn hoàn toàn. Chỉ cần chạm gián tiếp vào nó trong một thời gian ngắn đã khiến tay chân cô tê buốt, cơ thể run rẩy. Nếu cô không phải là một võ giả với sự lưu thông khí huyết mạnh mẽ, có lẽ cô đã gục ngã từ lâu.
+
+Cô đã nghĩ đến việc vứt nó đi, nhưng sau tất cả những nỗ lực hôm nay, thậm chí suýt mất mạng, đây gần như là chiến lợi phẩm duy nhất của cô. Sasha chắc chắn sẽ không từ bỏ nó dễ dàng như vậy.
+
+Tiếp tục thế này không phải là cách. Cô phải tìm ra lối thoát.
+
+Treo mình lặng lẽ trên xà ngang, cô gái liếc nhìn xung quanh.
+
+Nơi cô đang ở lúc này là một sảnh phụ nhỏ, có phần hẻo lánh.
+
+Trong khi trốn chạy trước đó, Sasha đã nhận ra rằng vật liệu của cung điện này rất bất thường—nó dường như được tạc hoàn toàn từ một loại băng đặc biệt.
+
+Ở các quốc gia phương Bắc, mùa đông khắc nghiệt và tuyết kéo dài gần như quanh năm. Người dân ở đó thường sử dụng băng cho nhiều mục đích khác nhau, chế tạo vũ khí, công cụ, thậm chí cả nhà cửa. Nhưng cả một cung điện được xây dựng hoàn toàn bằng băng, từ trên xuống dưới… đó vẫn là điều rất hiếm thấy.
+
+Nếu cô nhớ không lầm, Sasha từng nghe nói về một nơi gọi là Tuyết Lạc điện, được cho là một địa điểm du lịch lấy băng làm đặc trưng chính. Nhưng cô không mấy để tâm nên không biết chi tiết.
+
+Tuy nhiên… có gì đó không ổn.
+
+Nếu đây thực sự là một địa điểm du lịch, tại sao cho đến giờ cô vẫn chưa thấy một du khách nào? Bên ngoài, đã có hàng trăm chấp pháp giả của Vĩnh Đông Thần điện đang lùng sục cô. Làm thế nào họ có thể ẩn nấp gần đây mà không bị chú ý?
+
+Và điểm quan trọng nhất…
+
+Dựa trên ma pháp trận huyền bí và nhiều lính canh đóng giữ, cung điện này hẳn phải cực kỳ quan trọng đối với Vĩnh Đông Thần điện. Nếu đúng như vậy, tại sao họ lại mở cửa cho công chúng, để khách du lịch tự do ra vào?
+
+Điều đó thật vô lý và hoàn toàn đi ngược lại logic.
+
+Và con quái vật mà cô đã theo dấu từ quán rượu… nó đã đi đâu rồi? Cô đã theo dấu vết suốt chặng đường đến đây nhưng vẫn không thấy nó đâu cả.
+
+Mặc dù đây dường như không phải là lúc thích hợp để nghĩ về những chuyện như vậy, nhưng Sasha có cảm giác mơ hồ rằng điều này thực sự rất quan trọng, thậm chí có thể là chìa khóa để cô có thể thoát chết ngày hôm nay.
+
+Nhưng trước khi cô kịp cẩn thận sắp xếp lại các chi tiết, cửa sảnh phụ đột nhiên bị đẩy ra với một tiếng rầm lớn!
+
+Vài bóng người xông vào cùng lúc. Tim Sasha nảy lên một cái. Cô nhanh chóng nín thở và ẩn mình vào một góc khuất trên xà ngang trần nhà, các cơ bắp tự động căng cứng, sẵn sàng phản ứng bất cứ lúc nào.
+
+“Lục soát!”
+
+“Rõ, thưa ngài!”
+
+Không một lời thừa thãi, người dẫn đầu ra lệnh, và vài chấp pháp giả mặc giáp nhẹ lập tức tản ra, tay cầm đèn ma pháp. Họ bắt đầu tìm kiếm trong sảnh nhỏ, kiểm tra mọi ngóc ngách có thể ẩn nấp.
+
+Cuộn mình hết mức có thể trong bóng tối ngoài tầm ánh sáng, Sasha giữ im lặng, quan sát cử động của họ. Cô ước tính sức mạnh của từng thành viên dựa trên hành động và khí thế của họ.
+
+Ba… năm… bảy chấp pháp giả trung cấp, một sĩ quan cao cấp, và một chấp pháp giả “Ấn Giả” trung cấp. Đây là cấu hình đội hình tinh nhuệ tiêu chuẩn của Vĩnh Đông Thần điện. Chấp pháp giả trung cấp có sức mạnh tương đương với những mạo hiểm giả dày dạn kinh nghiệm hạng kim loại chất lượng cao. Sĩ quan cao cấp dao động từ cấp Địa đến cấp Thiên, và Ấn Giả tương đương với một mục sư.
+
+Sức mạnh của chính Sasha vẫn chưa đạt đến cấp độ Truyền kỳ. Đối đầu trực diện với cả đội hình này sẽ rất khó khăn. Nhưng nếu cô có thể ra tay trước và vô hiệu hóa Ấn Giả, việc trốn thoát… sẽ không thành vấn đề.
+
+Hít… sao cảm thấy ngày càng lạnh thế này?
+
+Cái thứ chết tiệt này…
+
+Khi Sasha lặng lẽ quan sát đội hình, sẵn sàng ứng biến bất cứ lúc nào, viên sĩ quan cao cấp và vị 【Ấn Giả】, những người nãy giờ vẫn đứng cạnh nhau ở cửa mà không hành động, đột nhiên bắt đầu nói chuyện với giọng thấp.
+
+“Ngáp… tôi chỉ muốn nói là, chỗ này nhỏ xíu. Chỉ cần liếc mắt một cái là thấy hết cả phòng rồi. Làm gì có chuyện một người sống sờ sờ lại trốn được ở đây chứ? Chúng ta thực sự cần phải lục soát lại sao? Cái sảnh này đã không được mở từ đời nào rồi… bụi sắp rơi đầy mặt tôi đến nơi.”
+
+Viên sĩ quan che miệng ngáp dài. Gã trông có vẻ hơi bất cẩn và mệt mỏi. Nhưng nữ Ấn Giả đứng cạnh gã trong bộ áo choàng lại tỏ ra nghiêm túc. Cô lắc đầu, từ chối lời gợi ý của gã.
+
+“Cẩn tắc vô ưu. Đừng để sót bất kỳ góc nào… Mà này, trông anh như sắp gục đến nơi rồi ấy. Đừng nói với tôi là tối qua lại…”
+
+Dường như cô đã chạm đúng chỗ ngứa. Viên sĩ quan trông đã trung niên lập tức cứng người và gắt gỏng đáp lại.
+
+“Trong đầu cô gái nhỏ này chứa cái gì thế hả? Trông tôi giống loại người liều lĩnh, buông thả bản thân lắm sao?! Tôi chỉ là… hơi muộn một chút khi đang cầu nguyện với Tuyết Thần thôi, thế thôi! Cô có hiểu hay không hả?!”
+
+“Tốt nhất là anh thực sự đã cầu nguyện…”
+
+Rõ ràng là biết tính cách của gã, nữ 【Ấn Giả】 trẻ tuổi đảo mắt và lắc đầu, không thèm tranh cãi thêm.
+
+Thấy vẻ mặt “đừng làm phiền tôi” của cô, viên sĩ quan, với tư cách là đội trưởng, cảm thấy hơi ngượng ngùng. Gã xoa mũi và vụng về cố gắng chuyển chủ đề.
+
+“Ừm… v-vậy, lần này có chuyện gì thế? Tôi bị đánh thức khỏi giường và bị buộc phải huy động… Tôi nghe nói kẻ xâm nhập đã phá hủy một 【Địa Ngấn】 bằng cách nào đó. Có thật không?”
+</text>
+</chapter>
+<chapter number="242" volume="9">
+<title>Hai Sự Lựa Chọn</title>
+<text>
+【Địa Ngấn】?
+
+Sasha, người đang lặng lẽ nghe lén cuộc trò chuyện của họ, khựng lại trong giây lát. Nhưng cô nhanh chóng nhận ra rằng 【Địa Ngấn】 mà họ nhắc đến hẳn là ma pháp trận kỳ lạ mà cô đã thấy, cái trận pháp đang chảy tràn năng lượng khổng lồ mà mục đích vẫn còn là ẩn số.
+
+Nhưng từ những gì gã nói… chẳng lẽ thứ đó thực ra không phải là duy nhất?
+
+Cô lặng lẽ suy nghĩ về điều này khi cuộc trò chuyện bên dưới tiếp tục.
+
+“Dù vậy, tôi không biết tình hình chính xác, nhưng vì cấp trên đã quyết tâm như vậy, có lẽ cũng không sai lệch bao nhiêu đâu. Vấn đề lớn nhất là họ đã lấy đi lõi tinh thể từ 【Địa Ngấn】. Anh biết thứ này là gì mà. Nếu nó lọt ra thế giới bên ngoài, hậu quả sẽ rất khủng khiếp. Chúng ta phải bắt được và thu hồi nó trước khi kẻ đó trốn thoát.”
+
+Viên sĩ quan cao cấp gật đầu nghiêm túc trước điều này.
+
+“Phải… thở dài, tình hình ngày càng tệ đi. Cuộc chiến ở phương Bắc đang căng thẳng, và từ những gì tôi nghe được, họ vẫn đang thua trận. Hậu phương của chúng ta cũng không ổn định. Và tôi nghe nói sáng nay, một phái đoàn của tộc ma cà rồng thực sự đã đến đây!”
+
+“Tôi biết chuyện đó. Có vấn đề gì sao?”
+
+Giọng của viên sĩ quan đột nhiên trở nên lớn và sắc bén trước câu hỏi có phần bối rối của Sasha.
+
+“Vấn đề? Đó là những ma cà rồng truyền kỳ, một lũ sinh vật cực kỳ tà ác! chúng đã im hơi lặng tiếng hàng trăm năm, vậy mà đột nhiên xuất hiện vào thời điểm quan trọng này. Cô nghĩ đó là chuyện tốt sao? Còn lãnh chúa pháo đài và hoàng gia của chúng ta nữa… sao họ có thể cứ thế cho chúng vào chứ?!”
+
+“Chà… có lẽ không hẳn vậy đâu. Tôi nghe nói họ đến để thăm chính thức nhằm thiết lập quan hệ ngoại giao. Đoàn diễu hành của họ thậm chí còn đi dọc theo con phố trung tâm, và rất nhiều người đã nhìn thấy. Dù sao thì họ cũng là một chủng tộc cổ xưa từ thời đại thần thoại… Đội trưởng, có lẽ anh hơi định kiến chăng?”
+
+“Định kiến? Cô còn quá trẻ! Hồi tôi còn là một tập sự chấp pháp cấp thấp…”
+
+“Đội trưởng! Ở đây không có gì!”
+
+“Bên này cũng không có gì!”
+
+Dường như viên sĩ quan muốn tiếp tục kể về những câu chuyện cũ, nhưng các chấp pháp giả khác sau khi lục soát xong đã tụ tập lại. Gã không còn cách nào khác ngoài việc dừng lại, quét mắt nhìn quanh sảnh đường yên tĩnh một lần cuối trước khi phẩy tay.
+
+“Hừm, khu vực tiếp theo!”
+
+Các chấp pháp giả rời đi nhanh chóng như khi họ đến. Chẳng mấy chốc, đội ngũ nhỏ gần mười người đã rút đi như thủy triều. Khi cửa sảnh đóng lại và tiếng bước chân hoàn toàn biến mất, Sasha, đang trốn trên xà ngang phía trên, cuối cùng cũng thở phào nhẹ nhõm, thả lỏng các dây thần kinh đang căng cứng và nhảy xuống.
+
+Bởi vì các cơ bắp đã căng cứng quá lâu và khối tinh thể kỳ lạ liên tục tỏa ra năng lượng băng giá, tay chân cô đã bị tê liệt một phần. Cô loạng choạng khi tiếp đất và suýt ngã.
+
+“Oa, chết tiệt!”
+
+May mắn thay, Sasha phản ứng nhanh nhạy, kịp thời điều chỉnh tư thế. Nhưng cơn đau từ các cơ bắp đang co rút khiến cô nghiến răng. Phải mất một lúc, cô mới có thể tựa vào tường để đứng vững.
+
+“Suýt nữa thì mất mạng… rốt cuộc cái thứ này là gì vậy?”
+
+Sau một lúc, cô gái tóc nâu bình ổn hơi thở và đứng thẳng dậy. Cô lấy lõi tinh thể từ thắt lưng ra. Nó được bọc trong lớp da thú dày nhưng theo thời gian đã trở nên lạnh hơn. Cô bóc lớp vỏ bên ngoài để lộ ra sự trong suốt màu xanh thẳm, giống như băng bên trong.
+
+Không còn nghi ngờ gì nữa. Hơi lạnh tỏa ra từ thứ này ngày càng mạnh hơn. Ngay cả một chiến binh với sức mạnh như cô cũng khó lòng chống lại tác động của nó chỉ bằng cách mang theo bên mình.
+
+Vừa rồi, để ngăn hơi lạnh rò rỉ từ khối tinh thể bị các chấp pháp giả bên dưới nhận ra, Sasha không còn cách nào khác ngoài việc dùng chính cơ thể mình che chắn nó hết mức có thể. Đó là lý do tại sao cô bị ảnh hưởng nặng nề đến vậy.
+
+Nhưng vẫn còn đó… 【Địa Ngấn】 mà họ nhắc đến chính xác là gì? Cái ma pháp trận khổng lồ đó là thứ gì?
+
+Những nghi ngờ trong tâm trí cô chỉ càng thêm mạnh mẽ. Cô gái nhìn sâu thêm lần nữa vào khối tinh thể trong tay, thứ đang tỏa ra ánh sáng mờ ảo và hơi lạnh cực độ, rồi bọc nó lại vào lớp da thú.
+
+Mọi chuyện đã đi đến mức này. Cô không còn đường lui và cũng không còn lựa chọn nào khác. Bất kể thứ này thực sự được dùng để làm gì, Sasha sẽ không bao giờ giao trả nó một cách dễ dàng như vậy. Tất cả những gì cô có thể làm bây giờ là đi từng bước một và hành động dựa trên tình hình thực tế.
+
+Cô thở dài một hơi dài. Ánh mắt cô cuối cùng cũng trở nên kiên định, như thể đã hạ quyết tâm.
+
+“Trước mắt… mình chỉ có thể dùng bất cứ phương tiện nào cần thiết để thoát khỏi đây trước đã…”
+
+……………………………………
+
+Bên trong phòng nghỉ phụ của Tuyết Lạc điện, mọi thứ vẫn yên tĩnh.
+
+Trên ghế sofa, Dephil, sau khi đã ăn no nê và thỏa mãn, đã ngủ thiếp đi một nửa, đôi mắt gần như nhắm nghiền.
+
+Dù sao thì cô bé cũng chỉ là một đứa trẻ chưa lớn hẳn. Sau tất cả những sự kiện hỗn loạn vừa rồi, việc cô bé cảm thấy buồn ngủ khi đã thư giãn là điều hoàn toàn tự nhiên.
+
+Cả Willis và Valentia đều không có ý định làm phiền cô bé. Willis vẫn ngồi điềm tĩnh như mọi khi, thản nhiên đọc sách, trong khi cô gái ma cà rồng đứng tựa mình vào tường, chống cằm suy nghĩ. Vẻ mặt nàng lộ rõ sự lo lắng nhẹ.
+
+Kể từ khi Tuyết Lạc điện đột ngột sơ tán du khách vì những lý do không xác định và tập trung mọi người vào các sảnh phụ, họ đã phải chờ đợi trong phòng nghỉ này gần hai tiếng đồng hồ.
+
+Hai chấp pháp giả Thần điện trong trang phục nhân viên vẫn đứng canh gác bên ngoài như những vị thần giữ cửa. Gã thanh niên vội vã rời đi lúc trước vẫn chưa bao giờ quay lại. Trong một tình huống khép kín và không có thông tin như thế này, việc cảm thấy lo lắng khi thời gian trôi qua là điều bình thường.
+
+Sức mạnh tinh thần của Valentia khá tốt, nhưng nàng chỉ mới bước chân lên võ đài chính trị và còn thiếu kinh nghiệm. Từ bình tĩnh và kiên nhẫn lúc đầu, đến sự không hài lòng nhẹ, và giờ là sự bất an sâu sắc, hai tiếng đồng hồ là giới hạn chịu đựng cuối cùng của nàng.
+
+“…Chuyện này không thể tiếp tục được. Ngay cả khi chúng ta không nghĩ đến việc tham quan, chúng ta cũng không thể qua đêm ở một nơi như thế này, đúng không? Tiểu thư Willis, trời sắp lặn rồi. Nếu chúng ta vẫn bị kẹt ở đây mà không có tin tức gì, những người khác chắc chắn sẽ đi tìm chúng ta sau khi trời tối. Và khi chuyện đó xảy ra…”
+
+“……”
+
+Vị mục sư ngẩng đầu lên và nhìn cô gái ma cà rồng cuối cùng cũng đã bước đến bên cạnh mình. Cô dường như không hề ngạc nhiên chút nào. Cô chỉ mỉm cười và hỏi một cách bình thản.
+
+“Vậy thì sao? Cô muốn làm gì?”
+
+Willis giơ tay chỉ vào cánh cửa đang đóng chặt của phòng nghỉ. Mặc dù gã nhân viên chưa bao giờ nói trực tiếp, nhưng cả cô và Valentia đều biết rất rõ rằng cánh cửa hiện đang bị khóa từ bên ngoài.
+
+“Thái độ của họ rất rõ ràng và rất kiên quyết. Bất kể chúng ta nói gì, họ cũng sẽ không để chúng ta rời đi. Cách duy nhất còn lại có lẽ là sử dụng vũ lực.”
+
+“Valentia, cô hiện là lãnh đạo của tộc ma cà rồng và là người đứng đầu phái đoàn đến thăm quốc gia này. Mỗi lời nói và hành động của cô đều mang sức nặng rất lớn. Nếu cô sử dụng bạo lực với nhân viên ở đây, thì bên sai… sẽ lập tức chuyển từ họ sang tộc ma cà rồng.”
+
+Vừa nói, nụ cười trêu chọc quen thuộc cuối cùng cũng xuất hiện trên khuôn mặt cô gái tóc đen. Cô khẽ hỏi.
+
+“Vậy, trong tình huống như thế này, cô sẽ chọn gì? Đặt đại cục lên hàng đầu và tạm thời nuốt cơn giận này vào trong, để sau này tính sổ… hay là…”
+
+“...cô quyết định chiến đấu?”
+</text>
+</chapter>
+</content>
+</document>

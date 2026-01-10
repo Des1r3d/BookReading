@@ -1,0 +1,469 @@
+<document>
+<metadata>
+<type>novel_chapters</type>
+<volume>9</volume>
+<chapters>250, 251, 252</chapters>
+<source_file>ch250_252.txt</source_file>
+</metadata>
+
+<content>
+<chapter number="250" volume="9">
+<title>Điểm Tới Hạn</title>
+<text>
+Màn đêm phai nhạt nhường chỗ cho bình minh, rồi bình minh lại sớm chìm vào bóng tối. Vòng tuần hoàn cứ thế tiếp diễn.
+
+Vô tình, Willis và nhóm của mình đã ở lại Pháo đài Băng Liên được vài ngày.
+
+Những thế lực đen tối chuyển động dưới bề mặt ngày càng hoạt động mạnh mẽ hơn, nhưng trên bề mặt, mọi thứ dường như không bị ảnh hưởng mấy. Cuộc gặp gỡ chính thức giữa các quan chức Tuyết Đế quốc và phái đoàn tộc Ma cà rồng do Valentia dẫn đầu đã diễn ra rất suôn sẻ.
+
+Nghe nói để thể hiện sự coi trọng của hoàng gia đối với liên minh này, Tuyết Đô đã khẩn cấp cử một trong ba lực lượng tinh nhuệ nhất, Thiên Mã Kỵ Sĩ Đoàn, tiến về phía nam từ vài ngày trước. Nhiệm vụ của họ là đích thân hộ tống các sứ giả tộc Ma cà rồng lên phía bắc để thiết lập liên minh. Chính vì vậy, Valentia và những người khác cần ở lại Pháo đài Băng Liên lâu hơn một chút, chờ đợi lực lượng chính của Thiên Mã Kỵ Sĩ Đoàn đến nơi rồi mới cùng khởi hành.
+
+Thật trùng hợp, thời điểm này trong năm, khi nhiệt độ giảm mạnh và mùa lạnh bắt đầu, cũng là lúc sản vật quý hiếm nổi tiếng nhất của Pháo đài Băng Liên – Băng Liên – nở rộ và được mở bán. Chính quyền tổ chức một sự kiện lớn gọi là Triển lãm Băng Liên, thu hút vô số khách ngoại bang và khiến thành phố trở nên cực kỳ náo nhiệt.
+
+Nhóm của Willis đến nơi chỉ vài ngày trước khi Triển lãm Băng Liên khai mạc. Dựa trên tốc độ di chuyển của Thiên Mã Kỵ Sĩ Đoàn, họ dự kiến sẽ đến vào khoảng thời gian đó.
+
+Vì vậy, vị Bá tước quản lý pháo đài đã nhân cơ hội này mời Valentia và các lãnh đạo phái đoàn cùng tham dự triển lãm. Ông cũng hứa sẽ tặng mười đóa Băng Liên cho tộc Ma cà rồng, vừa để thể hiện thiện chí, vừa để bù đắp cho sự đối xử bất công mà họ đã phải chịu đựng trước đó khi đến thăm Tuyết Lạc sảnh.
+
+Vì chủ nhà đã thể hiện sự chân thành như vậy, Valentia không có lý do gì để từ chối. Hơn nữa, mặc dù Thiên Mã Kỵ Sĩ Đoàn được chính thức tuyên bố là hộ tống phái đoàn xuống phía nam, nhưng Valentia, người đã nghiên cứu rất nhiều thông tin, biết rất rõ rằng đơn vị này năm nào cũng đến Pháo đài Băng Liên vào thời điểm này để thu thập phần Băng Liên thu hoạch được của hoàng gia và mang về thủ đô.
+
+Đây không phải là bí mật. Bất cứ ai tìm hiểu một chút đều có thể biết được sự thật. Cuối cùng, việc hộ tống phái đoàn chỉ là nhiệm vụ phụ.
+
+Willis cũng sớm biết được tất cả những điều này. Cô không thực sự bận tâm đến việc ở lại Pháo đài Băng Liên thêm vài ngày. Về phần Veranica và quân đội của cô ấy, mặc dù cuối cùng họ vẫn nghe lệnh Willis, nhưng hiện tại họ đang phục vụ với tư cách là lính canh cho phái đoàn Ma cà rồng, nên lẽ đương nhiên cũng phải ở lại chờ đợi.
+
+Còn việc liệu nhiệm vụ canh gác của họ có bị thay thế khi Thiên Mã Kỵ Sĩ Đoàn đến hay không. Chà, điều đó có thể quyết định khi thời điểm đó tới. Bên cạnh đó, tiểu thư mục sư thực sự khá tò mò về lễ hội mang tên Triển lãm Băng Liên.
+
+Một sự kiện thú vị như vậy, sao cô có thể bỏ lỡ được chứ~?
+
+Dù vậy, vài ngày tiếp theo thực sự rất nhàm chán đối với một người nào đó.
+
+Valentia, và ngay cả cô nàng rắc rối Avrilia, đều bận rộn cả ngày để xử lý các việc lớn nhỏ cho phái đoàn, hiếm khi thấy mặt. Veranica cuối cùng cũng có thời gian rảnh để tổ chức lại cấp dưới và huấn luyện binh sĩ.
+
+Alexia vẫn dành thời gian rảnh rỗi bay lên trời để so tài và chiến đấu với một cô nàng anh hùng nào đó. Ngay cả tiểu thư Long Thần, người thường thích bám dính lấy chủ nhân, cũng tìm thấy một việc quan trọng không kém để tập trung vào: công khai cạnh tranh và tranh cãi với một con búp bê gỗ nhỏ nào đó.
+
+Chỉ có Willis…
+
+"Haizz… chán quá đi mất. Đã bao nhiêu ngày trôi qua rồi. Không ai tìm được việc gì cho mình làm sao? Bất kỳ ngôi đền, đại sảnh hay cái gì cũng được, ai cũng được. Mau làm chuyện gì đó xảy ra đi chứ…"
+
+Trong một phòng ngủ ở tầng hai của nhà khách phái đoàn, tiểu thư mục sư nằm dài một cách thiếu thanh lịch trên chiếc ghế bập bênh bằng gỗ phủ những tấm thảm lông dày, lặng lẽ than vãn một mình.
+
+Một cuốn truyện gần như đã sờn cũ mở ra che nửa khuôn mặt cô. Giống như một ông lão đã nghỉ hưu, Willis nhẹ nhàng đung đưa qua lại khi chiếc ghế phát ra những tiếng cọt kẹt khẽ khàng. Bên ngoài cửa sổ, gió tuyết dữ dội đã quay trở lại một lần nữa. Bên trong phòng, lò sưởi cháy chậm khiến nơi đây như thiên đường, ấm áp đến mức khiến người ta buồn ngủ.
+
+Cũng không còn cách nào khác. Sau một đợt lặng gió ngắn ngủi vài ngày trước, một trận bão tuyết thậm chí còn mạnh hơn lại ập đến. Đợt sóng lạnh này được cho là thứ hiếm thấy trong trăm năm qua. Ngay cả ở phương Bắc, nơi con người sống chung với tuyết và gió cả đời, Pháo đài Băng Liên cũng phải chịu đòn giáng nặng nề từ nó.
+
+Vì tuyết rơi quá dày, nhiều tòa nhà yếu hơn đã bị sập. Thêm vào đó, với việc Triển lãm Băng Liên sắp diễn ra, nhiều cửa hàng và tổ chức đã chọn đóng cửa tạm thời để sửa chữa và chuẩn bị. Hơn một phần ba các con đường đã bị chính quyền phong tỏa, vì vậy ngay cả khi Willis muốn ra ngoài đi dạo cho khuây khỏa, cô cũng gần như không có nơi nào để đi.
+
+Trong vài ngày qua, Willis chủ yếu ở trong nhà khách ấm áp. Nhưng mọi người xung quanh cô đều bận rộn với nhiệm vụ riêng và không có thời gian bầu bạn với cô. Những việc duy nhất tiểu thư mục sư có thể làm là bí mật nghiên cứu một số vật phẩm ngẫu nhiên mà cô nhặt được, hoặc thỉnh thoảng trêu chọc con rồng và con búp bê nhỏ của mình, xem chúng cãi nhau ầm ĩ không dứt.
+
+Rõ ràng, kiểu cuộc sống này không thể làm hài lòng một người ghét việc ngồi yên một chỗ.
+
+Tách—
+
+Củi trong lò sưởi phát ra một tiếng nổ nhỏ. Như thể bị giật mình bởi tiếng động đó, người đang chán đến mức sắp "mọc rêu" trên chiếc ghế bập bênh khẽ động đậy đôi tai.
+
+"Hửm?"
+
+Cô nghe thấy một chuỗi những bước chân dồn dập và nặng nề.
+
+Hướng đó là… bên ngoài nhà khách, trên đường chính, và…?
+
+RẦM!!!
+
+Cánh cửa phòng ngủ bị đá văng ra với một tiếng va chạm lớn đầy thảm khốc. Một con búp bê gỗ nhỏ xuất hiện đầu tiên qua khe cửa và bay thẳng về phía Willis!
+
+"Yi~!"
+
+"Chủ nhân! Chủ nhân, có chuyện rồi! Có chuyện lớn xảy ra rồi!!!"
+
+Ngay sau đó là bóng dáng vội vã của cô nàng rồng, cùng với tiếng hét luôn to lớn và tràn đầy năng lượng của cô ấy.
+
+"Ồ phải rồi! Cuối cùng cũng có chuyện lớn— khụ. Ý ta là, có chuyện gì vậy? Sao em lại làm ầm lên thế?"
+
+Tiểu thư mục sư, người đã cảm nhận được chuyển động bên ngoài, nhanh chóng ngồi dậy. Cô nhấc cuốn sách khỏi mặt và bắt lấy Ngốc Ngốc khi nó nhảy vào lòng mình. Sau khi ho nhẹ vài tiếng và cố gắng kìm nén sự phấn khích, cô quay đầu nhìn Tiểu Quang.
+
+Thấy con búp bê gỗ lại hành động trước, Long Thần không khỏi đảo mắt. Nhưng có lẽ tin tức cô sắp chia sẻ thực sự gây sốc. Bởi vì, khác với mọi khi, lần này cô không tranh cãi với Ngốc Ngốc. Cô trấn tĩnh lại rồi mới lên tiếng, rõ ràng là đang rất hào hứng.
+
+"Tin sốt dẻo đây! Hội đồng mục sư của Vĩnh Đông Thần Điện vừa đưa ra một thông báo. Họ đã chính thức xác nhận cái chết của Đại mục sư tiền nhiệm, Nolan Sinong, và tuyên bố rằng họ sẽ sớm tổ chức lễ kế vị chính thức cho Thánh Nữ mới. Chủ nhân chắc biết đó là ai rồi đúng không?"
+
+"Moraya Sinong?"
+
+Dù sao thì, ngoài cô ta ra, Vĩnh Đông Thần Điện không còn ứng cử viên Thánh Nữ nào khác. Nói thế nào nhỉ… bất ngờ, nhưng cũng hợp lý.
+
+Mặc dù vẫn chưa rõ những người đó thực sự đang âm mưu điều gì, nhưng nếu Nolan thực sự đã chết, thì việc nhanh chóng đẩy Moraya vào vị trí đó để ổn định tình hình là một bước đi rất bình thường. Không có gì lạ cả.
+
+Về lý thuyết, nó thực sự có thể được gọi là tin lớn.
+
+Ánh sáng trong mắt tiểu thư mục sư hơi mờ đi, cô nghiêng đầu bối rối.
+
+"Ưm… vậy… chỉ có thế thôi sao?"
+
+"Không, không, không. Đó chỉ là thông tin nền thôi. Nó ở quá xa nên sẽ không ảnh hưởng đến chúng ta sớm đâu. Có một tin tức còn lớn hơn nữa, và nó xảy ra ngay tại đây, gần chúng ta!"
+
+"Ồ? Nói đi, mau lên!"
+
+Ngay cả Tiểu Quang, người thường không thích can thiệp vào chuyện của người phàm, giờ cũng lộ rõ vẻ quan tâm. Cô quay đầu đầy ẩn ý về phía cửa sổ.
+
+"Chủ nhân, chắc người cũng nhận ra chuyện gì đang diễn ra bên ngoài rồi đúng không? Mặc dù tuyết rơi rất dày, nhưng thành phố đầy rẫy những toán tuần tra của quân phòng thủ. Để em nói cho người biết… mặc dù chưa được công bố chính thức, nhưng lý do có lẽ là đây: lãnh chúa của pháo đài này đã chết rồi!"
+
+"Hả?"
+
+Mặc dù đã đoán trước đó sẽ không phải là chuyện nhỏ, nhưng khi nghe cô nàng rồng hạ thấp giọng thì thầm điều này, Willis vẫn phải khựng lại vì ngạc nhiên.
+
+"Chờ đã… em nói ai chết cơ?"
+
+"Lãnh chúa của Pháo đài Băng Liên! Ông lão mà mọi người gọi là 'Bá tước' ấy, người lúc nào trông cũng đầy lo lắng. Chúng ta thậm chí đã gặp ông ta khi mới vào pháo đài!"
+
+Sau khi Tiểu Quang xác nhận lại lần nữa, tiểu thư mục sư cuối cùng cũng tỉnh táo lại và nhướng mày ngạc nhiên.
+
+"…Vậy ông ta là người đầu tiên ngã xuống sao?"
+
+Thành thật mà nói, Willis đã cảm nhận được những dòng chảy ngầm đen tối đang chuyển động dưới bề mặt ở Pháo đài Băng Liên. Cô đã đoán rằng những cuộc đấu tranh ẩn giấu này sớm muộn gì cũng sẽ bị kích hoạt bởi một điều gì đó và bị kéo ra ngoài ánh sáng. Nhưng cô thực sự chưa bao giờ tưởng tượng nó lại xảy ra theo một cách cực đoan và gây sốc như vậy.
+
+Đối với đại đa số những người bình thường, những người không biết gì và không có khái niệm về những gì thực sự đang diễn ra, một khi tin tức này lan truyền, nó sẽ giống như một tiếng sét ngang tai. Nó sẽ ngay lập tức gây ra sự bất ổn lớn ở Pháo đài Băng Liên, và thậm chí trên toàn bộ Tuyết Đế quốc.
+
+Dù sao thì, ông ta cũng là một Bá tước Đế quốc do hoàng gia đích thân bổ nhiệm, với quyền thừa kế. Ông ta kiểm soát sức mạnh kinh tế và quân sự khổng lồ tập trung quanh Pháo đài Băng Liên. Chỉ riêng đội quân chính quy, có tổ chức dưới quyền ông ta có lẽ đã lên đến hàng chục nghìn người. Gọi ông ta là một "thống đốc khu vực" cũng không hề quá lời.
+
+Việc ông ta có thể đại diện cho Tuyết Đế quốc và đích thân tiếp đón phái đoàn tộc Ma cà rồng đang đến thăm đã cho thấy ông ta quan trọng như thế nào đối với hoàng gia và đối với người trị vì đế quốc.
+
+Theo một cách nào đó, ông ta là tiếng nói và là đại diện của Hoàng đế Tuyết Đế quốc tại vùng đất nhạy cảm và đặc biệt này của Pháo đài Băng Liên. Nếu một người có địa vị như vậy đột ngột qua đời ngay trong lãnh thổ của mình, tác động của nó, tuy có lẽ không gây chấn động thế giới như cái chết của Nolan Sinong, nhưng vẫn sẽ rất lớn.
+
+Nhận ra mức độ nghiêm trọng của việc này, Willis ngừng nhìn ra ngoài cửa sổ và quay lại nhìn Tiểu Quang.
+
+"Tin tức này từ đâu ra? Có đáng tin cậy không?"
+
+"Ưm…" Tiểu Quang gãi đầu và trả lời thành thật.
+
+"Thực ra là Avrilia nói đấy ạ. Cô ấy khá thân thiết với vị lãnh chúa đó dạo gần đây. Có vẻ như cô ấy đã đến thăm ông ta gần như mỗi ngày. Nhưng sáng nay, không lâu sau khi rời đi, Avrilia đột nhiên vội vã quay lại. Cô ấy bảo em báo cáo hai chuyện này cho người càng nhanh càng tốt, rồi lại chạy đi mất tiêu. Em không biết cô ấy đi đâu nữa…"
+
+"Ồ… ta hiểu rồi."
+
+Willis khẽ gật đầu, suy nghĩ.
+
+Nếu lãnh chúa của Pháo đài Băng Liên được tìm thấy đã chết, những thay đổi sẽ dữ dội hơn nhiều so với mọi người tưởng tượng. Việc Avrilia chạy đôn chạy đáo khắp nơi rất có thể là để chuẩn bị trước, để sắp xếp các kế hoạch khẩn cấp cho tất cả các tình huống có thể xảy ra. Điều đó không có gì lạ cả.
+
+Nhìn theo cách này, có ít nhất chín mươi phần trăm khả năng tin tức đó là thật. Mặc dù cái chết của vị lãnh chúa nghe có vẻ gây sốc lúc đầu, nhưng về lý thuyết, đó thực sự là một trong những kết cục có thể xảy ra.
+
+Mọi chuyện đã leo thang đến mức này rồi sao?
+
+Vĩnh Đông Thần Điện… không, vẫn còn quá sớm để đưa ra phán xét đó. Dù suy nghĩ thế nào, những người đó cũng không có lý do gì để làm một việc như vậy một cách trực tiếp. Vậy thì ai đã làm?
+
+Sau một khoảnh khắc suy nghĩ ngắn ngủi, tiểu thư mục sư nhanh chóng từ bỏ việc đoán mò vô ích.
+
+Dù sao thì, tình hình chính xác ở đó, nguyên nhân cái chết, phương thức, địa điểm, tất cả vẫn còn là ẩn số. Việc đoán mò sẽ hoàn toàn vô dụng.
+
+Hừm. Thật là một bước ngoặt bất ngờ. Ngay cả cô cũng bị giật mình bởi nó.
+
+Nhưng…
+
+Đó chính xác là điều khiến nó trở nên thú vị!
+
+"Đi thôi. Chúng ta xuất phát ngay lập tức!"
+
+"Ồ… đi đâu vậy chủ nhân? Đi tìm Avrilia để xác nhận tình hình ạ?"
+
+"Hả? Ai có thời gian để đối phó với cô nàng đầu óc cơ bắp đó chứ? Tất nhiên, chúng ta sẽ đi thẳng đến hiện trường vụ án!"
+</text>
+</chapter>
+<chapter number="251" volume="9">
+<title>Bóng Ma</title>
+<text>
+Hiện trường vụ án thực ra không khó tìm.
+
+Các thành phố ở khu vực phía bắc được gọi là "pháo đài" vì chúng luôn được xây dựng xung quanh một tòa lâu đài được hoàn thành trước tiên. Từ tòa lâu đài trung tâm đó, thành phố từ từ mở rộng ra bên ngoài.
+
+Phong tục này bắt nguồn từ thời đại của các vị thần từ rất lâu về trước. Tương truyền rằng khi Băng Tuyết Chi Thần Sinong còn sống, ngài đã sống cùng các con của mình trong một tòa lâu đài vĩ đại và tráng lệ. Những người tin tưởng vào ngài đã xây dựng nhà cửa xung quanh đó để họ có thể nhận được sự bảo vệ của ngài và thờ phụng ngài bất cứ lúc nào. Theo thời gian, điều này đã hình thành nên một khu định cư khổng lồ, vĩ đại đến mức dường như tỏa sáng xuyên suốt lịch sử.
+
+Thời gian trôi qua, thành phố từng được gọi là "Tuyết Thần Pháo Đài" đã bị gió tuyết chôn vùi và biến mất. Nhưng những truyền thống và thói quen vô hình đã vượt qua những năm tháng dài đằng đẵng và được truyền lại từ thế hệ này sang thế hệ khác.
+
+Để thể hiện sự tôn kính đối với vị thần sáng lập Sinong, những người cai trị của hầu hết các thành phố quốc gia phương Bắc đều sống trong tòa lâu đài cao nhất và tráng lệ nhất. Nền kinh tế của thành phố cũng lan rộng ra từ cốt lõi đó. Điều này đúng với tất cả mọi người, từ hoàng gia cho đến những quý tộc nhỏ nhất.
+
+Pháo đài Băng Liên, tất nhiên, cũng không ngoại lệ.
+
+"Chắc là chỗ này rồi… mình đã nhìn thấy nó từ xa vài lần trước đây, nhưng đây thực sự là lần đầu tiên mình được đến gần thế này~"
+
+Trong làn tuyết rơi dày đặc, xoáy mạnh, hai cô gái đứng cạnh nhau trên một con đường phủ đầy tuyết trắng bạc. Cách đó khoảng một trăm mét là tòa nhà cao nhất và uy nghiêm nhất trong toàn bộ Pháo đài Băng Liên. Nơi ở và văn phòng của lãnh chúa thành phố, "Pháo đài Băng Liên" thực thụ.
+
+Là trung tâm kinh tế và chính quyền của thành phố, Pháo đài Băng Liên đương nhiên không mở cửa cho công chúng như Tuyết Lạc sảnh. Không ai biết có bao nhiêu lính canh được giấu bên trong, nhưng chỉ riêng những lính canh hoàng gia có thể nhìn thấy được đã bao vây toàn bộ lâu đài như một bức tường sắt, không để lộ một kẽ hở nào.
+
+Nhìn những binh sĩ ở phía xa, tay cầm băng thương, mặc bộ giáp dày có đệm lông ở các khớp và bên trong để cân bằng giữa phòng thủ và giữ ấm. Tiểu thư mục sư quay sang trao một cái nhìn thấu hiểu với người bạn đồng hành rồng của mình. Cả hai đều khẽ gật đầu.
+
+Sau khi nhận được tin nhắn của Avrilia, họ đã rời nhà khách ngay lập tức. Họ không nói với ai và vội vã đi thẳng đến đây, vì vậy không có nhiều thời gian trôi qua kể từ khi vụ việc xảy ra.
+
+Tất nhiên, Willis không có kế hoạch đi vào qua cổng chính. Danh tính công khai của cô chỉ là thành viên của phái đoàn tộc Ma cà rồng, và cô có lẽ thậm chí không thể vượt qua vòng an ninh bên ngoài. Còn về con dấu chứng minh tư cách Thánh Nữ dự bị của Vĩnh Đông Thần Điện…
+
+Này, lôi thứ đó ra lúc này chỉ làm cho ngọn lửa cháy dữ dội hơn thôi, phải không?
+
+"Sẵn sàng chưa? Đi thôi!"
+
+Willis mỉm cười, nắm lấy cổ tay trắng trẻo của cô nàng rồng khi cô ấy đưa tay ra đầy thấu hiểu, và búng tay nhẹ một cái.
+
+"Tách~"
+
+Trong tích tắc, tất cả tuyết đang rơi đều dừng lại tại chỗ. Trong dòng chảy thời gian sâu thẳm và bí ẩn, những quy luật bao la lan tỏa ra bên ngoài và bao trùm thế giới. Mọi thứ xung quanh họ lặng lẽ biến thành những hạt vật chất hoàn toàn đứng yên. Chỉ có hai cô gái, đứng trong "khoảnh khắc hiện tại" vĩnh cửu—
+
+"Hửm?"
+
+Vì lý do nào đó, ngay khi cô kích hoạt 【Thời Gian Chi Đĩnh】, trước khi cô kịp bắt đầu di chuyển, tiểu thư mục sư đột nhiên nhướng mày. Đôi mắt cô hơi chuyển hướng, như thể bị thu hút bởi một thứ gì đó.
+
+Đó là một lối vào phụ của Pháo đài Băng Liên, giống như một cánh cửa nhỏ. Nhưng ngay lúc này, không có ai đi qua đó cả.
+
+Nhận ra phản ứng kỳ lạ của Willis ngay lập tức, Tiểu Quang liếc nhìn con rối gỗ nhỏ đang nằm trơ trẽn trong vòng tay của cô gái tóc đen, thứ cũng không bị ảnh hưởng bởi sức mạnh của 【Thời Gian Chi Đĩnh】. Sau đó, cô bối rối hỏi:
+
+"Có chuyện gì vậy, chủ nhân? Người nhận thấy điều gì lạ sao?"
+
+"……"
+
+Sau khi nhìn chằm chằm về hướng đó một lúc, Willis chọn không hành động. Cô chỉ khẽ lắc đầu.
+
+"…Không có gì đâu. Chúng ta vào trong trước đã."
+
+Như mọi khi, sức mạnh đóng băng thế giới của 【Thời Gian Chi Đĩnh】 đã hoạt động hoàn hảo. Với sự trợ giúp của nó, hai cô gái và một con rối gỗ nhỏ đã đi qua những lính canh, những người thậm chí còn cảnh giác hơn bình thường, và không tốn nhiều công sức để vào được lâu đài.
+
+Mặc dù được gọi là "pháo đài", nhưng các thành phố ở khu vực phía bắc lớn lên trong gió tuyết thực sự có kỹ năng xây dựng tinh xảo hơn những thành phố ở phía nam. Là một trong những trung tâm kinh tế chính ở phần phía nam của Tuyết Đế quốc, Pháo đài Băng Liên lớn hơn nhiều so với bất kỳ lâu đài nào Willis từng thấy trước đây. Chỉ riêng nó đã gần bằng kích thước của một thành phố nội đô nhỏ.
+
+Họ tiến về phía trước qua thế giới đóng băng, nơi mọi thứ đã biến thành các hạt cơ bản, đi qua hành lang dài phía sau cổng chính, và cuối cùng đến tòa nhà lâu đài trung tâm khổng lồ. Willis dừng lại, nhìn quanh hai lần, sau đó vẫy tay và giải phóng trường thời gian tĩnh lặng của 【Thời Gian Chi Đĩnh】.
+
+"U u u~"
+
+Gió và tuyết bắt đầu gầm rú trở lại. Trong cơn bão trắng xóa, tiểu thư mục sư trong bộ áo choàng trắng hòa quyện hoàn hảo với tuyết. Cô và Tiểu Quang nấp sau một bức tường, quan sát những lính canh đứng ở lối vào lâu đài chính. Cô cũng ngước nhìn những ô cửa sổ đóng chặt phía trên và khẽ nhíu mày.
+
+"…Có gì đó không ổn."
+
+"Người nói đúng. Những người này dường như là…"
+
+Cùng lúc thời gian đóng băng biến mất, các giác quan cực kỳ sắc bén của Long Thần lan tỏa ra. Đôi đồng tử dọc màu đỏ vàng của cô dõi theo cái nhìn của chủ nhân về phía những lính canh, và cô đột nhiên búng ngón tay.
+
+"Vút~!"
+
+Một lực vô hình hình thành ngay lập tức và lao về phía trước như một mũi tên rời khỏi cung, bay về phía những lính canh từ một góc rất kín đáo.
+
+Sự kiểm soát sức mạnh của Tiểu Quang cực kỳ chính xác. Mặc dù đòn tấn công đến từ cô, nhưng nó chứa rất ít sức mạnh thực sự. Ngay cả một con người bình thường hơi khỏe mạnh cũng chỉ bị loạng choạng nếu bị trúng đòn.
+
+Nếu đó là một trong những binh sĩ được huấn luyện bài bản mặc bộ giáp nặng nề, cùng lắm họ sẽ cảm thấy như có thứ gì đó kỳ lạ đẩy mình và sẽ nhanh chóng đứng vững lại. Không đời nào nó có thể đánh ngã họ.
+
+Tuy nhiên—
+
+"Keng!"
+
+Với một âm thanh nhẹ nhàng, rõ mồn một, dưới sự quan sát lặng lẽ của hai cô gái, người lính canh bị trúng đòn… đổ thẳng về phía trước, cứng đờ và không có bất kỳ phản ứng nào cả!
+
+"Rầm!!!"
+
+Bộ giáp nặng nề và trọng lượng của người lính đập xuống đất. Ngay cả khi có lớp tuyết dày để giảm bớt tác động, nó vẫn tạo ra một tiếng động lớn hơn nhiều so với trước đó.
+
+Không chỉ Willis và những người khác, mà ngay cả những người bên trong lâu đài chính cũng hẳn đã nghe thấy rất rõ.
+
+Nhưng… không có chuyện gì xảy ra cả.
+
+Người lính canh ngã xuống nằm sấp trên mặt đất, hoàn toàn bất động, không có dấu hiệu gì của việc nhảy dựng lên giận dữ để tìm kẻ tấn công. Những lính canh khác đứng gần đó vẫn như những khúc gỗ, không hề nhúc nhích. Họ không đến giúp anh ta, cũng không vào tư thế phòng thủ.
+
+Tòa lâu đài chính khổng lồ của Pháo đài Băng Liên giờ đây yên tĩnh đến mức đáng sợ. Chỉ còn lại tiếng vang của cú va chạm mạnh, bị cuốn đi xa bởi tiếng gió tuyết gào thét.
+
+"……"
+
+Hai cô gái mới đến lại nhìn nhau một lần nữa. Con rối nhỏ trốn trong vòng tay của tiểu thư mục sư phát ra một tiếng "Eek~?" nhỏ đầy phù hợp, như thể thể hiện sự bối rối và một chút sợ hãi của nó.
+
+Chà… giờ nghĩ lại, cái thứ nhỏ bé này thực sự thiếu can đảm trong một số tình huống nhất định.
+
+Willis khẽ thở dài và giơ tay xoa đầu nó để an ủi. Sau đó, cô không trốn nữa mà cùng với Tiểu Quang bước ra từ sau bức tường và đi về phía những lính canh rõ ràng là rất kỳ lạ kia.
+
+Chẳng mấy chốc, họ đã đến chỗ người lính canh bị ngã. Tiểu thư mục sư cúi xuống, nắm lấy bộ giáp lạnh lẽo và cứng như băng, và với một chút lực, cô tháo chiếc mũ bảo hiểm kín mít ra trong một động tác.
+
+Bên trong mũ bảo hiểm là khuôn mặt của một người đàn ông trung niên không có đặc điểm gì đặc biệt. Đôi mắt ông ta mở to, như thể đã nhìn thấy hoặc cảm thấy điều gì đó không thể tin được. Môi ông ta tím tái, và máu đen đang chảy ra từ mũi, đã gần như đóng băng. Rõ ràng là ông ta đã chết.
+
+Đây là một trường hợp điển hình của cái chết do trúng độc. Đánh giá từ nhiệt độ cơ thể và cách máu bắt đầu đóng băng, người lính đã chết cách đây không lâu.
+
+"Chủ nhân, những người khác cũng ở trong tình trạng gần như tương tự. Có vẻ như vài kẻ thù đã tấn công cùng lúc từ các góc độ khác nhau và giết chết họ chỉ trong một đòn."
+
+"Ừm…"
+
+Lắng nghe báo cáo của Long Thần khi cô kiểm tra những lính canh khác, tiểu thư mục sư khẽ gật đầu.
+
+Không chỉ vậy, những kẻ tấn công còn ngay lập tức kiểm soát thi thể của tất cả lính canh, đảm bảo tiếng họ ngã xuống không làm bất kỳ ai khác chú ý. Cuối cùng, họ được sắp xếp để trông giống hệt như cách Willis và Tiểu Quang nhìn thấy lúc đầu. Nếu không có khả năng bất thường của họ, sẽ rất khó để nhận ra điều gì đó không ổn chỉ bằng mắt thường.
+
+Willis tìm kiếm trên thi thể một lúc và sớm tìm thấy một cây kim độc rất mỏng ở sau gáy. Từ góc độ đó, nó đã trượt hoàn hảo qua khe hở của bộ giáp ở cổ và giết chết ông ta ngay lập tức bằng một loại độc cực mạnh.
+
+"Hừm, chúng thực sự rất điêu luyện~"
+
+Mức độ tốc độ, độ chính xác và sự phối hợp này không phải là thứ mà những người ngẫu nhiên có thể đạt được. Rõ ràng họ là những sát thủ chuyên nghiệp thực thụ ở cấp độ hàng đầu.
+
+Nhìn thấy những phương pháp như vậy, Willis ngay lập tức nghĩ đến những gì Sasha đã phải đối mặt trước đây. Những kẻ giết người không rõ nguồn gốc cũng bí ẩn và nguy hiểm không kém.
+
+Khí hậu phương Bắc khắc nghiệt, thực vật khó sinh trưởng, đặc biệt là những loài có độc. Chính vì vậy, người phương Bắc hiếm khi sử dụng chất độc, bất kể họ mạnh đến đâu. Những kỹ thuật dùng độc có tổ chức như thế này phổ biến hơn nhiều ở phương Nam.
+
+…Rất có thể là cùng một nhóm.
+
+Nhưng có điều gì đó cảm thấy kỳ lạ.
+
+Xét đến việc những sát thủ đó liều lĩnh như thế nào, và mục tiêu trước đây của chúng bao gồm cả những người môi giới thông tin có liên hệ với Vĩnh Đông Thần Điện, bản thân thần điện hầu như có thể bị loại khỏi danh sách nghi phạm. Còn về quyền lực và xung đột ở Pháo đài Băng Liên, Willis ban đầu đã nghi ngờ lãnh chúa pháo đài.
+
+Nhưng… ông ta là người đầu tiên chết. Bây giờ ngay cả lâu đài chính của Pháo đài Băng Liên cũng đã bị xâm nhập bí mật. Điều đó dường như đã tự nhiên xóa tan nghi ngờ cho ông ta. Vậy ai thực sự là người ra lệnh đằng sau hậu trường?
+
+Ngoài lãnh chúa pháo đài chính thức và Vĩnh Đông Thần Điện, liệu thực sự có một thế lực thứ ba ở Pháo đài Băng Liên có thể sánh ngang với tầm ảnh hưởng của họ không?
+
+Và một thế lực đến từ phương Nam?
+
+Ngay cả khi một thế lực như vậy tồn tại, họ hy vọng đạt được điều gì khi làm tất cả những điều kỳ lạ này?
+
+Đó là câu hỏi then chốt. Mặc dù Willis đã tìm thấy một số manh mối, nhưng cô vẫn thiếu cái cốt lõi thực sự có thể kết nối mọi thứ lại với nhau.
+
+Và cái cốt lõi đó… có khả năng liên quan đến những lợi ích lớn hơn nhiều so với chỉ riêng Pháo đài Băng Liên.
+
+Đột nhiên, mũi của cô nàng rồng khẽ động đậy, như thể cô đã bắt được một dấu vết đặc biệt. Tinh thần cô phấn chấn hẳn lên.
+
+"Có dao động năng lượng và mùi máu! Chủ nhân, mùi hương này là… Valentia!"
+
+"……"
+
+Theo cái nhìn rực cháy, ánh vàng kim của Tiểu Quang, cô gái tóc đen đứng dậy và nhìn về phía tòa lâu đài chính cao chót vót, bao bọc trong tiếng gió tuyết gào thét, gần như hoàn toàn im lặng.
+
+Một luồng sáng mờ ảo chảy trong đôi mắt xanh bạc của cô. Cuối cùng, cô chỉ gật đầu và bước tới.
+
+"Đi thôi."
+</text>
+</chapter>
+<chapter number="252" volume="9">
+<title>Khi Vận Đen Đeo Bám…</title>
+<text>
+Đúng vậy, tiểu thư Sasha lúc này đang chìm sâu trong sự tự trách và hối hận.
+
+Từ lâu, thái độ của cô đối với Nữ Thần đã quá đỗi thiếu tôn kính.
+
+Cô rõ ràng đã nhận được những lời chúc phúc và sự giúp đỡ lớn hơn nhiều so với những tín đồ bình thường từ một Nữ Thần toàn tri, toàn năng và nhân từ. Vậy mà cô chưa bao giờ cảm thấy thực sự biết ơn. Cô đã không dâng hiến đức tin hay lời ca tụng tương xứng với những phước lành đó. Mỗi lần cầu nguyện, cô chỉ làm cho có lệ. Đôi khi, cô còn dùng thánh kinh để kê chân ghế hoặc chặn góc bàn…
+
+Thật là bất kính! Thật là tội lỗi!
+
+Nếu có thể chọn lại, cô nhất định sẽ trở thành một tín đồ ngoan đạo. Cô sẽ cầu nguyện nghiêm túc ba lần một ngày, sáng, trưa và tối, mỗi lần ít nhất mười phút. Vào các ngày lễ, cô sẽ đích thân đến đền thờ để bái lạy và dâng lễ vật!
+
+Này, Nữ Thần, Người có nghe thấy không?!
+
+Nếu Người hiểu, xin hãy rủ lòng thương và đừng trêu đùa cô nữa được không?!
+
+Hết lần này đến lần khác… cô thực sự không chịu nổi nữa rồi!!!
+
+"Ngợi khen Nữ Thần… Nữ Thần, xin hãy tha thứ cho con… Ngợi khen Nữ Thần… Nữ Thần, xin hãy tha thứ cho con… Nữ Thần, Nữ Thần của con…"
+
+"Ưm… cô đang làm gì vậy?"
+
+"Oái!"
+
+Giọng nữ trong trẻo đột nhiên vang lên bên tai khiến Sasha, người đang ngồi xổm trong góc và cúi đầu cầu nguyện, giật bắn mình. Cô vội vàng nhét cuốn Khải Huyền Lục dày cộp vào lòng, sau đó quay lại và bắt gặp đôi đồng tử dọc màu đỏ sẫm đầy thắc mắc của một cô gái nào đó.
+
+"Khụ khụ… k-không có gì, chỉ là một thói quen nhỏ thôi. Điện hạ Valentia đã xong việc rồi sao?"
+
+"Xong việc nghe có vẻ hơi lạ khi cô nói như vậy… nhưng đại loại là rồi. Việc điều trị khẩn cấp cho những người bị thương đã hoàn tất. Trốn ở đây lúc này sẽ giúp chúng ta thở phào một chút. Chỉ là đáng tiếc cho những người đã khuất, và những binh sĩ đã bọc lót cho chúng ta rút lui…"
+
+Thấy vị tiểu thư thanh lịch khẽ cúi đầu, đôi mắt nhắm lại với vẻ buồn bã, Sasha gãi đầu và chỉ biết an ủi một cách bất lực.
+
+"Đừng như vậy. Điện hạ đã làm rất tốt rồi. Ai có thể ngờ chuyện như thế này lại xảy ra chứ? Đó là lâu đài chính của lãnh chúa, với hệ thống an ninh cực kỳ nghiêm ngặt. Thậm chí có thể nói đó là nơi an toàn nhất trong toàn bộ Pháo đài Băng Liên."
+
+"Nếu không có Điện hạ Valentia dẫn dắt mọi người chiến đấu chống trả, những người này có lẽ giờ đã không còn sống rồi~"
+
+"Ồ không, đây là kết quả của sự nỗ lực của tất cả mọi người…"
+
+Thấy cô gái chỉ đang cố tỏ ra bình tĩnh, cô nàng Ma cà rồng khiêm tốn trả lời và tránh chủ đề nặng nề. Sau đó, cô cùng Sasha quan sát căn phòng.
+
+Họ hiện đang ở trong một không gian kín, hơi tối. Căn phòng không lớn, khoảng một trăm mét vuông. Các bức tường được xây từ đá granite xám đen kiên cố. Không có cửa sổ, chỉ có một cánh cửa thép duy nhất nối với bên ngoài.
+
+Cánh cửa đó hiện đang được đóng chặt từ bên trong. Một ổ khóa ma thuật không rõ mục đích tỏa ra ánh sáng mờ ảo. Bên trong phòng có hàng chục người rải rác, mỗi người ăn mặc một kiểu.
+
+Một số mặc lễ phục sang trọng, số khác là lính canh trong bộ giáp, và một số trông giống như người hầu hoặc nô bộc. Cảm giác như đủ loại người đã bị ném vào đây một cách ngẫu nhiên.
+
+Nhưng bất kể ngoại hình hay địa vị, mọi người lúc này đều trông bẩn thỉu và tái nhợt, như thể họ vừa phải chịu một cú sốc lớn và vẫn chưa hồi phục.
+
+Ngoại trừ một vài binh sĩ vẫn còn ý chí chiến đấu, hầu hết mọi người ở đây hầu như không thể đứng vững. Một số người có cơ thể hoặc tinh thần yếu hơn thậm chí còn đổ gục một nửa vào tường. Tình trạng của họ vượt xa mức chỉ đơn giản là "tệ".
+
+Nếu đây là một đội quân, thì "một lực lượng bại trận và tan tác" sẽ là cách tốt nhất để mô tả họ.
+
+"Thật là một đống hỗn độn…" Sasha nói khẽ. "Nhìn họ kìa, nếu kẻ thù đuổi kịp lần nữa, hầu hết những người này chắc chắn sẽ không thể chạy thoát."
+
+"Cũng không thể thực sự trách họ được. Như cô đã nói, ai có thể ngờ chuyện như thế này lại xảy ra đột ngột như vậy? Có thể tập hợp lòng dũng cảm để chiến đấu chống trả trong tình huống đó và chạy thoát đến tận đây đã là rất ấn tượng rồi. Suy cho cùng, hầu hết họ chỉ là những người bình thường chưa bao giờ đối mặt với cuộc chiến sinh tử thực sự."
+
+"Đúng vậy. Nhưng dù thế nào, Điện hạ Valentia trông giống như một tiểu thư quý tộc được bảo vệ kỹ càng ngay từ cái nhìn đầu tiên. Biểu hiện của Điện hạ từ nãy đến giờ hoàn toàn khác với ấn tượng đó. Phải chăng tất cả Ma cà rồng đều có năng lực như vậy sao~?"
+
+"Làm sao có thể chứ… Đừng để bị đánh lừa bởi vẻ bề ngoài. Lúc đó tôi cũng gần như sợ chết khiếp rồi. Tôi chỉ đang cố gắng để sống sót thôi…"
+
+Hai cô gái trò chuyện qua lại một cách tự nhiên, và bầu không khí căng thẳng dần dịu đi mà không ai nhận ra. Sau khi quen thuộc hơn một chút, hai người này, vốn thực sự mới gặp nhau lần đầu và bị buộc phải hợp tác vì tình thế, cuối cùng cũng có cơ hội nói về những chủ đề ít cấp bách hơn.
+
+"Nhân tiện, tôi vẫn hầu như không biết gì về cô. Có thể đưa ra những quyết định nhanh chóng và hành động dứt khoát như vậy trong cơn khủng hoảng không phải là điều mà ai cũng làm được đâu~"
+
+Thấy nụ cười rạng rỡ và thân thiện trên khuôn mặt cô gái tóc nâu, Valentia cũng mỉm cười. Cô khẽ nhấc váy và thực hiện một động tác chào đúng mực.
+
+"Valentia Constantius, con gái của Enoch, Đại hoàng tử của tộc Ma cà rồng, và là lãnh đạo hiện tại của phái đoàn Ma cà rồng đến thăm Tuyết Đế quốc. Mặc dù cuộc gặp gỡ này hơi đột ngột, nhưng tôi vẫn rất vui được gặp cô."
+
+"Này, này… đừng đột nhiên trang trọng như vậy. Tôi chỉ là một người thô kệch, tôi không thực sự hiểu về lễ nghi và những thứ đó đâu… Cứ gọi tôi là Sasha. Còn về thân phận, tôi thực sự chỉ là một thương nhân bình thường thôi."
+
+"Thương nhân bình thường" hơi bối rối trước sự chú ý và nhanh chóng đứng dậy để chào lại. Thành thật mà nói, nếu vụ việc khủng khiếp đó không xảy ra, một người có địa vị như cô sẽ không bao giờ có cơ hội ngồi nói chuyện như thế này với một người như Valentia.
+
+Vài ngày trước, sau khi trải qua bao khó khăn, thậm chí phải sử dụng một số vật phẩm ẩn giấu giá trị nhất của mình, Sasha cuối cùng đã thoát khỏi cung điện băng giá đó. Lẽ tự nhiên, cô không dám ở lại gần đó và lập tức rời khỏi khu vực với khối tinh thể kỳ lạ mà cô đã vô tình có được.
+
+Để tránh bị theo dõi bằng một số phương pháp đặc biệt, cô thậm chí không dám quay lại trực tiếp quán trọ nơi đoàn thương buôn của mình đang ở. Thay vào đó, cô tìm cách gửi tin nhắn cho cấp phó của mình để giải thích ngắn gọn tình hình, sau đó chọn một quán trọ bình thường để ở tạm, dự định quan sát tình hình trước khi làm bất cứ điều gì khác.
+
+Nhưng ngay khi tiểu thư Sasha cuối cùng đã ổn định chỗ ở và sẵn sàng nghiên cứu kỹ lưỡng thứ đã gây ra cho mình bao nhiêu rắc rối đó, với hy vọng tìm thấy một số manh mối hữu ích—
+
+Nó đã biến mất.
+
+Đúng vậy, khối tinh thể đã biến mất không dấu vết!
+
+Cô đã mang nó bên mình suốt thời gian qua, hầu như không bao giờ để nó rời khỏi tầm mắt. Vậy mà vào một khoảnh khắc không xác định nào đó, vật phẩm được bọc trong túi da thú ở thắt lưng cô đã thay đổi. Từ một khối tinh thể trong suốt, lạnh như băng thành một hòn đá vỡ bình thường mà bạn có thể tìm thấy ở bất cứ đâu!
+
+Khi Sasha phát hiện ra điều này, cô vừa sốc vừa tức giận, giận đến mức gần như mất trí.
+
+Nghĩ lại, trong khi cô đang tuyệt vọng trốn chạy khỏi sự truy đuổi, với tất cả sự chú ý dồn vào môi trường xung quanh và kẻ thù, khối tinh thể, vốn có cái lạnh ngày càng sắc lẹm, thực sự đã bắt đầu mất đi cái lạnh thấu xương vào một thời điểm nào đó. Điều đó cho phép Sasha di chuyển tự do mà không bị ảnh hưởng và cuối cùng thoát chết.
+
+Nếu ai đó thực sự đã tráo đổi thứ bên trong, thì khả năng cao nhất là nó đã xảy ra vào lúc đó.
+
+Nhưng khi ấy, tâm trí cô hoàn toàn tập trung vào việc che giấu sự hiện diện và quan sát xung quanh. Cô chỉ nghĩ rằng cái lạnh đã phai nhạt đi, làm sao cô có thể tưởng tượng được chuyện như thế này lại xảy ra cơ chứ?!
+
+Tên trộm chết tiệt!!!
+
+Tuy nhiên, sau khi làn sóng giận dữ và thất vọng đầu tiên qua đi, và Sasha bình tĩnh lại nhìn nhận toàn bộ tình hình, tâm thế của cô dần thay đổi. Cô thậm chí còn cảm thấy hơi nhẹ nhõm và một chút sợ hãi.
+
+Suy cho cùng, ngay từ đầu, cô chỉ đến quán bar đó vì đột ngột bị một nhóm sát thủ tấn công. Sau khi giết chúng để tự vệ, cô tìm thấy một danh sách ám sát trên người chúng và muốn kiểm tra tình hình của một người môi giới thông tin có tên cũng nằm trong danh sách đó.
+
+Mục tiêu của tiểu thư Sasha chỉ đơn giản là thu thập thông tin, để tìm ra ai đã ban hành lệnh ám sát, chuẩn bị một số thứ và bảo vệ bản thân. Chỉ có vậy thôi.
+
+Cô chưa bao giờ có kế hoạch đánh cắp một kho báu quan trọng nào đó, sử dụng nó để đạt được những mục tiêu lớn lao hơn, hay đối đầu trực diện với những kẻ đứng sau mọi chuyện. Cô biết rất rõ rằng mình không có sức mạnh cũng như nguồn lực cho việc đó. Chỉ là hoàn cảnh cứ đẩy cô về phía trước, từng bước một, cho đến khi cô bằng cách nào đó kết thúc ở điểm cuối của chuỗi sự kiện.
+
+Khối tinh thể không rõ nguồn gốc đó trông giống như một kho báu cực kỳ giá trị, nhưng đối với Sasha, nó thực sự giống như một gánh nặng, một thứ nguy hiểm khi nắm giữ. Giữ nó bên mình sẽ mang lại nhiều rắc rối hơn là lợi ích, và cuối cùng, nó thậm chí có thể dẫn đến thảm họa nghiêm trọng và nguy hiểm lớn hơn.
+
+Sasha luôn rất rõ ràng về việc mình là ai và mình đang đứng ở đâu. Cô không phải là một nhân vật vĩ đại có thể thay đổi vận mệnh của một thành phố, hay thậm chí là một quốc gia. Thương hội Xavier cũng vậy.
+
+Họ là những thương nhân, những thương nhân thực sự bình thường, không phải là một tổ chức khổng lồ như Thương hội Cecilia, vốn có các quốc gia, quân đội và vô số nhân vật quyền lực hậu thuẫn.
+
+Khi những con sóng của thời đại và những thế lực lớn ập đến, những người như họ chỉ có thể cố gắng hết sức để thuận theo dòng chảy, đấu tranh tiến về phía trước và sống sót. Hy vọng có thể sống thoải mái hơn một chút. Chỉ có vậy thôi.
+
+Việc một thực thể không xác định đánh cắp khối tinh thể của cô thực sự đã khiến Sasha mất đi cơ hội đào sâu và hiểu đầy đủ những gì đã xảy ra. Nhưng từ một góc nhìn khác, nó cũng đưa cô ra khỏi trung tâm của cơn bão theo cách an toàn nhất có thể.
+
+Miễn là vật phẩm đó không còn trong tay cô, và vì những thành viên quyền lực của Thần điện chưa bao giờ nhìn thấy mặt cô, điều duy nhất cô vẫn phải đối mặt là danh sách ám sát ban đầu.
+
+Lãng phí bao nhiêu công sức chắc chắn là bực bội, nhưng so với việc mất mạng, Sasha biết rất rõ điều gì quan trọng hơn. Và cô không hề ngu ngốc, bằng cách nhìn lại một số chi tiết trên đường đi, cô có thể lờ mờ đoán được vài điều.
+
+Đối phương có thể dễ dàng hành động sau đó, đánh cắp khối tinh thể trực tiếp, hoặc thậm chí giết cô để lấy nó. Vậy mà họ lại chọn phương pháp này, một phương pháp gần giống như một trò đùa. Chỉ riêng lựa chọn đó đã nói lên rất nhiều điều.
+
+Vậy thì, cô còn gì để nói nữa đây?
+
+Sau đó, tiểu thư Sasha ở ẩn trong quán trọ thêm hai ngày nữa, hết sức cẩn thận. Điều khiến cô ngạc nhiên là không chỉ Vĩnh Đông Thần Điện, những người đã mất đi "kho báu", không đến tìm cô, mà ngay cả những sát thủ trước đó cũng hoàn toàn biến mất.
+
+Cứ như thể mọi thứ đã trở lại bình lặng. Ngoại trừ việc quán bar của Guru không bao giờ mở cửa trở lại, Sasha gần như cảm thấy toàn bộ sự việc chẳng qua chỉ là trí tưởng tượng của mình.
+
+Ngày diễn ra Triển lãm Băng Liên đang đến gần. Sau khi trở về với các đồng đội và thảo luận với những lãnh đạo chính, nhóm cuối cùng quyết định ở lại Pháo đài Băng Liên trong thời gian này. Tuyết rơi quá dày để có thể cưỡng ép khởi hành, và dù thế nào đi nữa, ở lại bên trong pháo đài vẫn an toàn hơn là ở bên ngoài.
+
+Một khi Triển lãm Băng Liên kết thúc và Thiên Mã Kỵ Sĩ Đoàn, một trong ba lực lượng mạnh nhất của Tuyết Đế quốc, đến để hộ tống phái đoàn Ma cà rồng đi, họ có thể đi cùng phía sau nhóm đó. Dựa vào sự bảo vệ của một lực lượng hùng hậu như vậy, về lý thuyết, là kế hoạch an toàn và ổn định nhất.
+
+Vì đã quyết định ở lại, tiểu thư Sasha không thể cứ trốn trong quán trọ mỗi ngày và không làm gì cả.
+
+Nếu các sát thủ thực sự muốn tìm cô, việc lẩn trốn hầu như cũng vô ích. Vì vậy, trưởng nhóm đã chọn cách tiếp cận ngược lại và thường xuyên đi về phía lâu đài chính được canh gác nghiêm ngặt bất cứ khi nào cô có thời gian rảnh.
+
+Đoàn thương buôn vẫn còn một lô ngũ cốc chất lượng cao cuối cùng. Trong thế giới phương Bắc, đây là một nguồn tài nguyên cực kỳ quý giá, đủ quan trọng để ngay cả các quan chức của Tuyết Đế quốc cũng không thể phớt lờ. Còn về những điều cấm kỵ như khả năng xuất hiện của một đóa thần vật 【Bát Diệp Băng Liên】, cô không còn tâm trí đâu mà lo lắng về những điều đó nữa. Thể hiện sự chân thành trước tiên có thể giúp cô tìm được một chỗ dựa vững chắc để được bảo vệ.
+
+Quả nhiên, chỉ ba ngày sau khi Sasha bày tỏ ý định bán ngũ cốc cho các quan chức với giá thấp, cô đã nhận được phản hồi. Bá tước mời cô tham dự một bữa tiệc chính thức được tổ chức tại lâu đài chính, nơi họ sẽ bắt đầu thảo luận chi tiết về cuộc giao dịch.
+
+Tất nhiên, tiểu thư Sasha vô cùng hạnh phúc chấp nhận. Vì vậy, sáng sớm hôm nay, cô đã ăn mặc cẩn thận và vội vã đi tới.
+
+Và rồi—
+
+Cô đã chứng kiến chính vị lãnh chúa pháo đài biến thành một cái xác lạnh lẽo, không còn sự sống ngay trước mắt mình.
+</text>
+</chapter>
+</content>
+</document>
