@@ -1004,9 +1004,21 @@ input {
 
 /* === Library Page === */
 .hero-library {
-    min-height: 50vh;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    min-height: 45vh;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.hero-library::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    background: linear-gradient(to top, var(--bg-primary), transparent);
+    pointer-events: none;
 }
 
 .library-section {
@@ -1015,34 +1027,97 @@ input {
 
 .books-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: var(--space-lg);
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: var(--space-xl);
 }
 
+/* Premium Book Card with Glassmorphism */
 .book-card {
+    position: relative;
     display: flex;
     gap: var(--space-lg);
-    padding: var(--space-lg);
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    background: linear-gradient(135deg,
+            color-mix(in srgb, var(--bg-card) 80%, transparent),
+            color-mix(in srgb, var(--bg-tertiary) 60%, transparent));
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+    border-radius: var(--radius-xl);
     transition: all var(--transition-base);
     text-decoration: none;
+    overflow: hidden;
+}
+
+/* Gradient border effect */
+.book-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: var(--radius-xl);
+    padding: 1px;
+    background: linear-gradient(135deg,
+            color-mix(in srgb, var(--accent) 30%, transparent),
+            transparent 50%,
+            color-mix(in srgb, var(--accent) 20%, transparent));
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity var(--transition-base);
+    pointer-events: none;
+}
+
+/* Subtle glow effect on hover */
+.book-card::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at center,
+            hsla(45, 85%, 55%, 0.08) 0%,
+            transparent 50%);
+    opacity: 0;
+    transition: opacity var(--transition-slow);
+    pointer-events: none;
 }
 
 .book-card:hover {
-    background: var(--bg-hover);
-    border-color: var(--accent);
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-lg);
+    transform: translateY(-8px) scale(1.02);
+    box-shadow:
+        var(--shadow-lg),
+        0 20px 60px hsla(45, 85%, 55%, 0.15);
+}
+
+.book-card:hover::before {
+    opacity: 1;
+}
+
+.book-card:hover::after {
+    opacity: 1;
 }
 
 .book-cover {
+    position: relative;
     flex-shrink: 0;
-    width: 100px;
-    height: 140px;
+    width: 110px;
+    height: 155px;
     border-radius: var(--radius-md);
     overflow: hidden;
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.3),
+        0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.book-card:hover .book-cover {
+    transform: translateY(-4px) rotate(-2deg);
+    box-shadow:
+        0 8px 24px rgba(0, 0, 0, 0.4),
+        0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .book-cover img {
@@ -1059,6 +1134,11 @@ input {
     justify-content: center;
     background: var(--gradient-hero);
     color: var(--accent);
+    transition: color var(--transition-base);
+}
+
+.book-card:hover .book-cover-placeholder {
+    color: var(--accent-hover);
 }
 
 .book-info {
@@ -1069,25 +1149,36 @@ input {
 }
 
 .book-genre {
-    font-size: 0.7rem;
-    font-weight: 600;
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.12em;
     color: var(--accent);
+    padding: var(--space-xs) var(--space-sm);
+    background: var(--accent-soft);
+    border-radius: var(--radius-full);
+    margin-bottom: var(--space-xs);
 }
 
 .book-title {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     font-weight: 700;
     color: var(--text-primary);
-    line-height: 1.3;
+    line-height: 1.25;
     margin: 0;
+    transition: color var(--transition-fast);
+}
+
+.book-card:hover .book-title {
+    color: var(--accent);
 }
 
 .book-title-vi {
     font-size: 0.9rem;
     color: var(--text-secondary);
     margin: 0;
+    font-style: italic;
 }
 
 .book-meta {
