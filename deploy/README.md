@@ -138,3 +138,75 @@ After deployment, verify:
 5. ✓ Chapter navigation (prev/next) works
 6. ✓ Mobile responsive design
 7. ✓ Reading progress saves
+
+---
+
+## Backend API Deployment (Optional)
+
+To enable the Admin Panel for running scripts from the web:
+
+### 1. Install Backend Dependencies
+
+```bash
+# On VPS, install Python dependencies
+cd /var/www/maxlevelpriest-backend
+pip install -r requirements.txt
+```
+
+### 2. Create Systemd Service
+
+```bash
+sudo nano /etc/systemd/system/maxlevelpriest-api.service
+```
+
+```ini
+[Unit]
+Description=Max Level Priest API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/var/www/maxlevelpriest-backend
+ExecStart=/usr/bin/python3 -m uvicorn main:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Enable and start:
+
+```bash
+sudo systemctl daemon-reload
+sudo systemctl enable maxlevelpriest-api
+sudo systemctl start maxlevelpriest-api
+```
+
+### 3. Update nginx Config
+
+Add API proxy to your nginx config:
+
+```nginx
+# Add inside server block
+location /api/ {
+    proxy_pass http://127.0.0.1:8000/api/;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection "upgrade";
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_buffering off;  # Important for SSE
+}
+```
+
+Reload nginx:
+
+```bash
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+### 4. Access Admin Panel
+
+Navigate to `https://your-domain.com/admin.html`

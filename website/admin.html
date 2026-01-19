@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Thư Viện Truyện</title>
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <style>
+        /* Admin-specific styles */
+        .admin-page {
+            min-height: 100vh;
+            padding: var(--space-xl);
+            background: var(--bg-primary);
+        }
+
+        /* Login Page */
+        .login-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: var(--space-xl);
+            background: var(--bg-primary);
+        }
+
+        .login-card {
+            width: 100%;
+            max-width: 400px;
+            padding: var(--space-2xl);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: var(--space-xl);
+        }
+
+        .login-icon {
+            width: 64px;
+            height: 64px;
+            margin: 0 auto var(--space-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--accent-soft);
+            border-radius: 50%;
+            color: var(--accent);
+        }
+
+        .login-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: var(--space-xs);
+        }
+
+        .login-subtitle {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .login-form {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-md);
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-xs);
+        }
+
+        .form-label {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+
+        .form-input {
+            width: 100%;
+            padding: var(--space-md);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            color: var(--text-primary);
+            font-size: 1rem;
+            transition: border-color var(--transition-fast);
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .login-btn {
+            width: 100%;
+            padding: var(--space-md);
+            background: var(--gradient-accent);
+            color: #1a1a1a;
+            font-size: 1rem;
+            font-weight: 600;
+            border: none;
+            border-radius: var(--radius-md);
+            cursor: pointer;
+            transition: all var(--transition-base);
+        }
+
+        .login-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px hsla(45, 85%, 55%, 0.3);
+        }
+
+        .login-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .login-error {
+            padding: var(--space-md);
+            background: hsla(0, 80%, 50%, 0.1);
+            border: 1px solid hsla(0, 80%, 50%, 0.3);
+            border-radius: var(--radius-md);
+            color: #ef4444;
+            font-size: 0.9rem;
+            text-align: center;
+            display: none;
+        }
+
+        .login-error.show {
+            display: block;
+        }
+
+        /* Admin Header with Logout */
+        .admin-header {
+            max-width: 1200px;
+            margin: 0 auto var(--space-xl);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: var(--space-md);
+        }
+
+        .admin-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        .admin-title svg {
+            color: var(--accent);
+        }
+
+        .admin-nav {
+            display: flex;
+            gap: var(--space-sm);
+        }
+
+        .admin-nav a,
+        .admin-nav button {
+            padding: var(--space-sm) var(--space-md);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .admin-nav a:hover,
+        .admin-nav button:hover {
+            background: var(--bg-hover);
+            color: var(--text-primary);
+        }
+
+        .logout-btn {
+            color: #ef4444 !important;
+            border-color: hsla(0, 80%, 50%, 0.3) !important;
+        }
+
+        /* Status Bar */
+        .status-bar {
+            max-width: 1200px;
+            margin: 0 auto var(--space-xl);
+            padding: var(--space-md) var(--space-lg);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: var(--space-md);
+        }
+
+        .status-item {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--text-muted);
+        }
+
+        .status-dot.running {
+            background: hsl(45, 85%, 55%);
+            animation: pulse 1.5s infinite;
+        }
+
+        .status-dot.success {
+            background: hsl(120, 60%, 50%);
+        }
+
+        .status-dot.error {
+            background: #ef4444;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        .status-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .chapter-counts {
+            display: flex;
+            gap: var(--space-lg);
+        }
+
+        .chapter-count {
+            text-align: center;
+        }
+
+        .chapter-count-value {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .chapter-count-label {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Action Cards */
+        .admin-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-xl);
+        }
+
+        .actions-section {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-md);
+        }
+
+        .section-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: var(--space-xs);
+        }
+
+        .action-card {
+            position: relative;
+            padding: var(--space-lg);
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            transition: all var(--transition-base);
+            cursor: pointer;
+        }
+
+        .action-card:hover:not(.disabled) {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .action-card.disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .action-card.running {
+            border-color: var(--accent);
+            background: var(--accent-soft);
+        }
+
+        .action-icon {
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--accent-soft);
+            border-radius: var(--radius-md);
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+        }
+
+        .action-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: var(--space-xs);
+        }
+
+        .action-description {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .action-tag {
+            position: absolute;
+            top: var(--space-md);
+            right: var(--space-md);
+            padding: 2px 8px;
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            border-radius: var(--radius-full);
+        }
+
+        .tag-safe {
+            background: hsla(120, 60%, 50%, 0.15);
+            color: hsl(120, 60%, 50%);
+        }
+
+        .tag-slow {
+            background: hsla(45, 85%, 55%, 0.15);
+            color: hsl(45, 85%, 55%);
+        }
+
+        /* Log Viewer */
+        .log-section {
+            display: flex;
+            flex-direction: column;
+            height: 600px;
+        }
+
+        .log-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: var(--space-md);
+        }
+
+        .log-viewer {
+            flex: 1;
+            background: #0d0d0f;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .log-toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: var(--space-sm) var(--space-md);
+            background: var(--bg-tertiary);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .log-toolbar button {
+            padding: var(--space-xs) var(--space-sm);
+            background: var(--bg-hover);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .log-toolbar button:hover {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+        }
+
+        .log-content {
+            flex: 1;
+            padding: var(--space-md);
+            overflow-y: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.6;
+        }
+
+        .log-line {
+            color: var(--text-secondary);
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        .log-line .log-success {
+            color: hsl(120, 60%, 60%);
+        }
+
+        .log-line .log-error {
+            color: #ef4444;
+        }
+
+        .log-line .log-info {
+            color: hsl(200, 80%, 60%);
+        }
+
+        .log-empty {
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .admin-content {
+                grid-template-columns: 1fr;
+            }
+
+            .log-section {
+                height: 400px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .admin-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .chapter-counts {
+                flex-wrap: wrap;
+                gap: var(--space-md);
+            }
+        }
+
+        /* Hide sections */
+        .hidden {
+            display: none !important;
+        }
+
+        /* Modal Styles */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            backdrop-filter: blur(4px);
+        }
+
+        .modal-card {
+            width: 100%;
+            max-width: 500px;
+            padding: var(--space-xl);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .modal-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: var(--space-md);
+        }
+
+        .modal-form {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-md);
+        }
+
+        .modal-buttons {
+            display: flex;
+            gap: var(--space-sm);
+            margin-top: var(--space-md);
+        }
+
+        .modal-btn {
+            flex: 1;
+            padding: var(--space-md);
+            font-size: 0.9rem;
+            font-weight: 500;
+            border-radius: var(--radius-md);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .modal-btn-primary {
+            background: var(--gradient-accent);
+            color: #1a1a1a;
+            border: none;
+        }
+
+        .modal-btn-secondary {
+            background: var(--bg-tertiary);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+        }
+
+        .modal-btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        .checkbox-group input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            accent-color: var(--accent);
+        }
+
+        .checkbox-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Login Page -->
+    <div id="loginPage" class="login-container">
+        <div class="login-card">
+            <div class="login-header">
+                <div class="login-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                    </svg>
+                </div>
+                <h1 class="login-title">Admin Login</h1>
+                <p class="login-subtitle">Đăng nhập để quản lý website</p>
+            </div>
+
+            <form class="login-form" id="loginForm">
+                <div class="login-error" id="loginError">Sai tên đăng nhập hoặc mật khẩu</div>
+
+                <div class="form-group">
+                    <label class="form-label" for="username">Tên đăng nhập</label>
+                    <input type="text" id="username" class="form-input" placeholder="admin" required
+                        autocomplete="username">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="password">Mật khẩu</label>
+                    <input type="password" id="password" class="form-input" placeholder="••••••••" required
+                        autocomplete="current-password">
+                </div>
+
+                <button type="submit" class="login-btn" id="loginBtn">Đăng nhập</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Admin Page (hidden initially) -->
+    <div id="adminPage" class="admin-page hidden">
+        <!-- Header -->
+        <header class="admin-header">
+            <h1 class="admin-title">
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 20h9"></path>
+                    <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+                </svg>
+                Admin Panel
+            </h1>
+            <nav class="admin-nav">
+                <a href="index.html">← Trang chủ</a>
+                <button class="logout-btn" onclick="logout()">Đăng xuất</button>
+            </nav>
+        </header>
+
+        <!-- Status Bar -->
+        <div class="status-bar">
+            <div class="status-item">
+                <div class="status-dot" id="statusDot"></div>
+                <span class="status-label" id="statusLabel">Sẵn sàng</span>
+            </div>
+            <div class="chapter-counts">
+                <div class="chapter-count">
+                    <div class="chapter-count-value" id="untranslatedCount">-</div>
+                    <div class="chapter-count-label">Chưa dịch</div>
+                </div>
+                <div class="chapter-count">
+                    <div class="chapter-count-value" id="translatedCount">-</div>
+                    <div class="chapter-count-label">Đã dịch</div>
+                </div>
+                <div class="chapter-count">
+                    <div class="chapter-count-value" id="formattedCount">-</div>
+                    <div class="chapter-count-label">Đã format</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="admin-content">
+            <!-- Action Cards -->
+            <section class="actions-section">
+                <div class="section-label">Hành động</div>
+
+                <div class="action-card" data-action="scrape">
+                    <span class="action-tag tag-slow">Chậm</span>
+                    <div class="action-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path
+                                d="M21 12a9 9 0 0 1-9 9m9-9a9 9 0 0 0-9-9m9 9H3m9 9a9 9 0 0 1-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 0 1 9-9">
+                            </path>
+                        </svg>
+                    </div>
+                    <h3 class="action-title">Scrape Chapters</h3>
+                    <p class="action-description">Thu thập chapters mới từ Ko-fi.</p>
+                </div>
+
+                <div class="action-card" data-action="translate">
+                    <span class="action-tag tag-slow">Chậm</span>
+                    <div class="action-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="m5 8 6 6"></path>
+                            <path d="m4 14 6-6 2-3"></path>
+                            <path d="M2 5h12"></path>
+                            <path d="M7 2h1"></path>
+                            <path d="m22 22-5-10-5 10"></path>
+                            <path d="M14 18h6"></path>
+                        </svg>
+                    </div>
+                    <h3 class="action-title">Dịch Chapters</h3>
+                    <p class="action-description">Dịch các chapters chưa dịch sang tiếng Việt.</p>
+                </div>
+
+                <div class="action-card" data-action="format">
+                    <span class="action-tag tag-safe">Nhanh</span>
+                    <div class="action-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                            <polyline points="14 2 14 8 20 8"></polyline>
+                            <line x1="16" y1="13" x2="8" y2="13"></line>
+                            <line x1="16" y1="17" x2="8" y2="17"></line>
+                        </svg>
+                    </div>
+                    <h3 class="action-title">Format Chapters</h3>
+                    <p class="action-description">Chuyển đổi chapters sang định dạng XML.</p>
+                </div>
+
+                <div class="action-card" data-action="update">
+                    <span class="action-tag tag-safe">Nhanh</span>
+                    <div class="action-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                    </div>
+                    <h3 class="action-title">Cập nhật Website</h3>
+                    <p class="action-description">Cập nhật file chapters.json.</p>
+                </div>
+            </section>
+
+            <!-- Log Viewer -->
+            <section class="log-section">
+                <div class="log-header">
+                    <div class="section-label">Console Output</div>
+                </div>
+                <div class="log-viewer">
+                    <div class="log-toolbar">
+                        <span id="logCount">0 dòng</span>
+                        <button onclick="clearLogs()">Xóa logs</button>
+                    </div>
+                    <div class="log-content" id="logContent">
+                        <div class="log-empty">Nhấn vào một hành động để bắt đầu...</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Scrape Modal -->
+    <div id="scrapeModal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h2 class="modal-title">🌐 Scrape Chapters</h2>
+            <form class="modal-form" id="scrapeForm">
+                <div class="form-group">
+                    <label class="form-label">URL chapter đầu tiên (Ko-fi)</label>
+                    <input type="url" id="scrapeUrl" class="form-input" placeholder="https://ko-fi.com/post/..."
+                        required>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Số bài viết cần scrape</label>
+                    <input type="number" id="scrapeCount" class="form-input" value="10" min="1" max="50">
+                </div>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="scrapeAuto">
+                    <label class="checkbox-label" for="scrapeAuto">Tự động scrape đến khi hết</label>
+                </div>
+                <div class="modal-buttons">
+                    <button type="button" class="modal-btn modal-btn-secondary"
+                        onclick="closeModal('scrapeModal')">Hủy</button>
+                    <button type="submit" class="modal-btn modal-btn-primary">Bắt đầu Scrape</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Update Modal -->
+    <div id="updateModal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h2 class="modal-title">📤 Cập nhật Website</h2>
+            <form class="modal-form" id="updateForm">
+                <p style="color: var(--text-secondary); margin-bottom: var(--space-md);">
+                    Cập nhật file chapters.json với các chapter mới đã format.
+                </p>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="updateForce">
+                    <label class="checkbox-label" for="updateForce">Force: Ghi đè chapters đã tồn tại</label>
+                </div>
+                <div class="modal-buttons">
+                    <button type="button" class="modal-btn modal-btn-secondary"
+                        onclick="closeModal('updateModal')">Hủy</button>
+                    <button type="submit" class="modal-btn modal-btn-primary">Cập nhật</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const isLocal = window.location.protocol === 'file:' || window.location.hostname === 'localhost';
+        const API_BASE = isLocal ? 'http://localhost:8000/api' : '/api';
+
+        // State
+        let authToken = localStorage.getItem('adminToken');
+        let isRunning = false;
+        let eventSource = null;
+
+        // Elements
+        const loginPage = document.getElementById('loginPage');
+        const adminPage = document.getElementById('adminPage');
+        const loginForm = document.getElementById('loginForm');
+        const loginError = document.getElementById('loginError');
+        const statusDot = document.getElementById('statusDot');
+        const statusLabel = document.getElementById('statusLabel');
+        const logContent = document.getElementById('logContent');
+        const logCount = document.getElementById('logCount');
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', async () => {
+            if (authToken) {
+                // Verify existing token
+                const valid = await verifyToken();
+                if (valid) {
+                    showAdminPanel();
+                } else {
+                    showLoginPage();
+                }
+            } else {
+                showLoginPage();
+            }
+
+            // Login form handler
+            loginForm.addEventListener('submit', handleLogin);
+
+            // Action card handlers
+            document.querySelectorAll('.action-card').forEach(card => {
+                card.addEventListener('click', () => {
+                    if (!isRunning && !card.classList.contains('disabled')) {
+                        handleActionClick(card.dataset.action);
+                    }
+                });
+            });
+
+            // Form handlers
+            document.getElementById('scrapeForm').addEventListener('submit', handleScrapeSubmit);
+            document.getElementById('updateForm').addEventListener('submit', handleUpdateSubmit);
+        });
+
+        // Show/hide pages
+        function showLoginPage() {
+            loginPage.classList.remove('hidden');
+            adminPage.classList.add('hidden');
+            authToken = null;
+            localStorage.removeItem('adminToken');
+        }
+
+        function showAdminPanel() {
+            loginPage.classList.add('hidden');
+            adminPage.classList.remove('hidden');
+            fetchStatus();
+            fetchChapterCounts();
+        }
+
+        // Verify token
+        async function verifyToken() {
+            try {
+                const res = await fetch(`${API_BASE}/verify`, {
+                    headers: { 'Authorization': `Bearer ${authToken}` }
+                });
+                return res.ok;
+            } catch {
+                return false;
+            }
+        }
+
+        // Login handler
+        async function handleLogin(e) {
+            e.preventDefault();
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const btn = document.getElementById('loginBtn');
+
+            btn.disabled = true;
+            btn.textContent = 'Đang đăng nhập...';
+            loginError.classList.remove('show');
+
+            try {
+                const res = await fetch(`${API_BASE}/login`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+
+                if (res.ok) {
+                    const data = await res.json();
+                    authToken = data.token;
+                    localStorage.setItem('adminToken', authToken);
+                    showAdminPanel();
+                } else {
+                    loginError.classList.add('show');
+                }
+            } catch (err) {
+                loginError.textContent = 'Không thể kết nối đến server';
+                loginError.classList.add('show');
+            }
+
+            btn.disabled = false;
+            btn.textContent = 'Đăng nhập';
+        }
+
+        // Logout
+        async function logout() {
+            try {
+                await fetch(`${API_BASE}/logout`, {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${authToken}` }
+                });
+            } catch { }
+            showLoginPage();
+        }
+
+        // Fetch status
+        async function fetchStatus() {
+            try {
+                const res = await fetch(`${API_BASE}/status`, {
+                    headers: { 'Authorization': `Bearer ${authToken}` }
+                });
+                if (res.status === 401) {
+                    showLoginPage();
+                    return;
+                }
+                const data = await res.json();
+                updateStatus(data.isRunning, data.currentTask);
+                if (data.isRunning) startLogStream();
+            } catch {
+                updateStatus(false, null, true);
+            }
+        }
+
+        // Fetch chapter counts
+        async function fetchChapterCounts() {
+            try {
+                const res = await fetch(`${API_BASE}/chapters/status`, {
+                    headers: { 'Authorization': `Bearer ${authToken}` }
+                });
+                if (res.ok) {
+                    const data = await res.json();
+                    document.getElementById('untranslatedCount').textContent = data.untranslated;
+                    document.getElementById('translatedCount').textContent = data.translated;
+                    document.getElementById('formattedCount').textContent = data.formatted;
+                }
+            } catch { }
+        }
+
+        // Update status UI
+        function updateStatus(running, task, error = false) {
+            isRunning = running;
+            statusDot.className = 'status-dot';
+
+            if (error) {
+                statusDot.classList.add('error');
+                statusLabel.textContent = 'Lỗi kết nối';
+            } else if (running) {
+                statusDot.classList.add('running');
+                statusLabel.textContent = task || 'Đang chạy...';
+            } else {
+                statusLabel.textContent = 'Sẵn sàng';
+            }
+
+            document.querySelectorAll('.action-card').forEach(card => {
+                card.classList.toggle('disabled', running);
+                card.classList.remove('running');
+            });
+        }
+
+        // Handle action click - show modal if needed
+        function handleActionClick(action) {
+            console.log('Action clicked:', action);
+            if (action === 'scrape') {
+                openModal('scrapeModal');
+            } else if (action === 'update') {
+                openModal('updateModal');
+            } else {
+                // translate and format - run directly
+                runAction(action, {});
+            }
+        }
+
+        // Open modal
+        function openModal(modalId) {
+            const modal = document.getElementById(modalId);
+            modal.classList.remove('hidden');
+            modal.style.display = 'flex';
+            modal.style.opacity = '1';
+            modal.style.visibility = 'visible';
+        }
+
+        // Close modal
+        function closeModal(modalId) {
+            const modal = document.getElementById(modalId);
+            modal.classList.add('hidden');
+            modal.style.display = '';
+            modal.style.opacity = '';
+            modal.style.visibility = '';
+        }
+
+        // Handle scrape form submit
+        async function handleScrapeSubmit(e) {
+            e.preventDefault();
+            const url = document.getElementById('scrapeUrl').value;
+            const count = parseInt(document.getElementById('scrapeCount').value) || 10;
+            const auto = document.getElementById('scrapeAuto').checked;
+
+            closeModal('scrapeModal');
+            await runAction('scrape', { start_url: url, count: count, auto: auto });
+        }
+
+        // Handle update form submit
+        async function handleUpdateSubmit(e) {
+            e.preventDefault();
+            const force = document.getElementById('updateForce').checked;
+
+            closeModal('updateModal');
+            await runAction('update', { force: force });
+        }
+
+        // Run action with params
+        async function runAction(action, params = {}) {
+            try {
+                clearLogs();
+                const res = await fetch(`${API_BASE}/${action}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${authToken}`
+                    },
+                    body: JSON.stringify(params)
+                });
+
+                if (res.status === 401) {
+                    showLoginPage();
+                    return;
+                }
+
+                if (!res.ok) {
+                    const error = await res.json();
+                    addLog(`❌ Error: ${error.detail}`);
+                    return;
+                }
+
+                updateStatus(true, action);
+                startLogStream();
+            } catch (e) {
+                addLog(`❌ Failed: ${e.message}`);
+            }
+        }
+
+        // Start SSE log stream
+        function startLogStream() {
+            if (eventSource) eventSource.close();
+
+            eventSource = new EventSource(`${API_BASE}/logs/stream?authorization=Bearer ${authToken}`);
+
+            // Note: SSE needs auth header workaround
+            eventSource.close();
+
+            // Use fetch-based polling instead for auth
+            pollLogs();
+        }
+
+        // Poll logs (for authenticated SSE alternative)
+        async function pollLogs() {
+            let lastCount = 0;
+
+            const poll = async () => {
+                try {
+                    const res = await fetch(`${API_BASE}/logs`, {
+                        headers: { 'Authorization': `Bearer ${authToken}` }
+                    });
+                    if (res.ok) {
+                        const data = await res.json();
+                        if (data.logs.length > lastCount) {
+                            data.logs.slice(lastCount).forEach(log => addLog(log));
+                            lastCount = data.logs.length;
+                        }
+                    }
+
+                    const statusRes = await fetch(`${API_BASE}/status`, {
+                        headers: { 'Authorization': `Bearer ${authToken}` }
+                    });
+                    if (statusRes.ok) {
+                        const status = await statusRes.json();
+                        if (!status.isRunning && lastCount > 0) {
+                            updateStatus(false);
+                            fetchChapterCounts();
+                            return; // Stop polling
+                        }
+                    }
+
+                    if (isRunning) setTimeout(poll, 500);
+                } catch { }
+            };
+
+            poll();
+        }
+
+        // Add log line
+        function addLog(message) {
+            const emptyMsg = logContent.querySelector('.log-empty');
+            if (emptyMsg) emptyMsg.remove();
+
+            const line = document.createElement('div');
+            line.className = 'log-line';
+
+            if (message.includes('✅') || message.includes('Completed')) {
+                message = `<span class="log-success">${message}</span>`;
+            } else if (message.includes('❌') || message.includes('Error')) {
+                message = `<span class="log-error">${message}</span>`;
+            } else if (message.includes('🚀') || message.includes('📂')) {
+                message = `<span class="log-info">${message}</span>`;
+            }
+
+            line.innerHTML = message;
+            logContent.appendChild(line);
+            logContent.scrollTop = logContent.scrollHeight;
+
+            const count = logContent.querySelectorAll('.log-line').length;
+            logCount.textContent = `${count} dòng`;
+        }
+
+        // Clear logs
+        function clearLogs() {
+            logContent.innerHTML = '<div class="log-empty">Nhấn vào một hành động để bắt đầu...</div>';
+            logCount.textContent = '0 dòng';
+        }
+    </script>
+</body>
+
+</html>

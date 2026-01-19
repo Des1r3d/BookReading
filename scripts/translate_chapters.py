@@ -21,8 +21,8 @@ import aiohttp
 # ============================================================================
 # CONFIGURATION - Điều chỉnh các giá trị này theo API của bạn
 # ============================================================================
-API_BASE_URL = "api"  # URL của OpenAI API self-hosted
-API_KEY = "nonono"                    # API key (để trống nếu không cần)
+API_BASE_URL = "http://157.245.157.187:8317"  # URL của OpenAI API self-hosted
+API_KEY = "dat4512"                    # API key (để trống nếu không cần)
 MODEL_NAME = "gemini-3-flash-preview"                        # Tên model sử dụng
 MAX_CONCURRENT = 5                          # Số tiến trình song song
 MAX_RETRIES = 3                             # Số lần retry khi lỗi
