@@ -376,6 +376,21 @@ async def run_update(request: UpdateRequest, background_tasks: BackgroundTasks, 
     return {"message": "Update started", "status": "running"}
 
 
+@app.post("/api/sync_js")
+async def run_sync_js(background_tasks: BackgroundTasks, token: str = Depends(require_auth)):
+    """Sync chapters.json to chapters.js."""
+    if task_manager.is_running:
+        raise HTTPException(status_code=409, detail="Another task is already running")
+    
+    async def sync_js_task():
+        task_manager.start_task("Sync chapters.js")
+        success = await run_script("sync_chapters_js.py")
+        task_manager.end_task(success)
+    
+    background_tasks.add_task(sync_js_task)
+    return {"message": "Sync started", "status": "running"}
+
+
 @app.get("/api/chapters/status")
 async def get_chapters_status(token: str = Depends(require_auth)):
     """Get status of chapters in each stage."""

@@ -708,6 +708,20 @@
                     <h3 class="action-title">Cập nhật Website</h3>
                     <p class="action-description">Cập nhật file chapters.json.</p>
                 </div>
+
+                <div class="action-card" data-action="sync_js">
+                    <span class="action-tag tag-safe">Nhanh</span>
+                    <div class="action-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M23 4v6h-6"></path>
+                            <path d="M1 20v-6h6"></path>
+                            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                        </svg>
+                    </div>
+                    <h3 class="action-title">Sync chapters.js</h3>
+                    <p class="action-description">Cập nhật chapters.js từ chapters.json.</p>
+                </div>
             </section>
 
             <!-- Log Viewer -->
@@ -962,7 +976,7 @@
             } else if (action === 'update') {
                 openModal('updateModal');
             } else {
-                // translate and format - run directly
+                // translate, format, sync_js - run directly
                 runAction(action, {});
             }
         }
