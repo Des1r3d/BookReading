@@ -100,29 +100,60 @@ Since you're using Cloudflare:
 
 With Cloudflare's proxy enabled, HTTPS is handled automatically.
 
-### 4. Update Chapters
+### 4. Git-based Updates (Recommended)
+
+If using Git for deployment:
+
+```bash
+# On VPS, in your project directory
+cd /var/www/maxlevelpriest
+
+# Pull latest changes
+git pull origin main
+
+# Restart services
+sudo systemctl reload nginx
+sudo systemctl restart maxlevelpriest-api  # if using backend
+```
+
+### 5. Update Chapters Workflow
 
 When you have new chapters:
 
-1. Add new `.vn.txt` files to `Chapters/` directory
-2. Run: `python scripts/parse_chapters.py`
-3. Upload updated `website/js/chapters.js` to VPS:
+1. **Scrape chapters**: Run `python scripts/auto_scrape.py`
+2. **Translate**: Run `python scripts/translate_chapters.py`
+3. **Format for website**: Run `python scripts/format_for_website.py`
+4. **Update chapters.json**: Run `python scripts/update_chapters_json.py`
+5. **Sync to chapters.js**: Run `python scripts/sync_chapters_js.py`
+6. **Push to VPS**:
    ```bash
-   scp website/js/chapters.js user@your-vps-ip:/var/www/maxlevelpriest/js/
+   git add .
+   git commit -m "Update chapters"
+   git push
    ```
+7. **On VPS**: `git pull`
+
+Or use the **Admin Panel** at `/admin.html` to run these scripts from the web.
 
 ## File Structure on VPS
 
 ```
 /var/www/maxlevelpriest/
 ├── index.html
-├── reader.html
+├── admin.html
 ├── css/
 │   └── main.css
 ├── js/
-│   ├── app.js
-│   ├── reader.js
-│   └── chapters.js
+│   ├── library.js
+│   └── add-book.js
+├── books/
+│   └── max-level-priest/
+│       ├── index.html
+│       ├── reader.html
+│       └── js/
+│           ├── chapters.js    # Chapter data
+│           └── app.js
+│           └── reader.js
 └── data/
     └── chapters.json
 ```
@@ -131,13 +162,15 @@ When you have new chapters:
 
 After deployment, verify:
 
-1. ✓ Homepage loads with chapter list
-2. ✓ Click chapter to open reader
-3. ✓ Theme switching works (dark/light/sepia)
-4. ✓ Font size slider works
-5. ✓ Chapter navigation (prev/next) works
-6. ✓ Mobile responsive design
-7. ✓ Reading progress saves
+1. ✅ Homepage loads with book list
+2. ✅ Book page shows chapter list
+3. ✅ Click chapter to open reader
+4. ✅ Theme switching works (dark/light/sepia)
+5. ✅ Font size slider works
+6. ✅ Chapter navigation (prev/next) works
+7. ✅ Mobile responsive design
+8. ✅ Reading progress saves
+9. ✅ Admin panel works (if backend deployed)
 
 ---
 
