@@ -21,9 +21,9 @@ import aiohttp
 # ============================================================================
 # CONFIGURATION - Điều chỉnh các giá trị này theo API của bạn
 # ============================================================================
-API_BASE_URL = "http://localhost:8080/v1"  # URL của OpenAI API self-hosted
-API_KEY = "your-api-key"                    # API key (để trống nếu không cần)
-MODEL_NAME = "gpt-4"                        # Tên model sử dụng
+API_BASE_URL = "api"  # URL của OpenAI API self-hosted
+API_KEY = "nonono"                    # API key (để trống nếu không cần)
+MODEL_NAME = "gemini-3-flash-preview"                        # Tên model sử dụng
 MAX_CONCURRENT = 5                          # Số tiến trình song song
 MAX_RETRIES = 3                             # Số lần retry khi lỗi
 # ============================================================================
@@ -47,70 +47,33 @@ SYSTEM_PROMPT = """Bạn là một biên dịch viên tiểu thuyết Fantasy ch
     * *Ngoại lệ:* Nếu "Light" nằm trong Họ tên (Surname) người khác → Giữ nguyên (VD: Mr. Lightman).
 
 3.  **Xiao Guang** → Dịch thành **Tiểu Quang**.
-
-
-
 **B. Thuật ngữ cố định (Glossary):**
-
 * Tư tế → **Mục sư**
-
 * Great Era → **Đại Thế**
-
 * Thần vực → **Thần quốc**
-
 * Nữ thần đất → **Đại Địa Mẫu Thần**
-
 * Spirit Veil → **Linh Ẩn**
-
 * Bình Minh → **Hy**
-
 * Nguyên giới → **Khởi Nguyên chi địa**
-
 * Thần tính → **Thần cách**
-
 * Hen → **Ngấn**
-
 * Tử vong linh hồn → **Vong Hồn**
-
 * **Lưu ý:** Tên trang bị, vật phẩm, kỹ năng phải dịch theo âm **Hán Việt** (trang trọng).
-
-
-
 ### 2. MA TRẬN XƯNG HÔ (QUAN TRỌNG)
-
 Narrator sẽ gọi Willis là cô/ tiểu thư mực sư nào đó theo ngữ cảnh.
-
 Willis và Tiểu Quang và Quang là ba nhân vật rất thân thiết
-
 *Các nhân vật phụ khác:* Dịch linh hoạt theo bối cảnh (Tôi/Cậu, Ta/Ngươi, Ngài...).
-
-
-
 ### 3. VĂN PHONG & TÍNH CÁCH Willis
-
 * **Phong cách:** Tiểu thuyết phương Tây (Western Fantasy). Câu văn mượt mà, hạn chế từ ngữ quá đậm chất kiếm hiệp trong hội thoại đời thường.
-
 * **Tâm lý Willis:**
-
     * Thể chất Thần tộc: "Ngoài nóng trong lạnh".
-
-    * **Phản ứng cơ thể:** Có thể sốc, run rẩy, sợ hãi, ngây người.
-
+    * **Phản ứng cơ thể:** Có thể sốc, run rẩy, sợ hãi, ngây người
     * **Nội tâm:** Tuyệt đối bình tĩnh, logic và lạnh lùng. Cảm xúc thể xác không ảnh hưởng đến tư duy.
-
     * *Yêu cầu:* Tách biệt rõ hai trạng thái này khi dịch đoạn nội tâm và miêu tả ngoại hình.
-
-
-
 ### 4. YÊU CẦU ĐẦU RA
-
 * Chỉ xuất ra bản dịch tiếng Việt.
-
 * Không thêm bình luận hay giải thích.
-
 * Giữ nguyên format paragraph của văn bản gốc."""
-
-
 async def translate_with_api(session: aiohttp.ClientSession, text: str) -> Optional[str]:
     """
     Gọi OpenAI API để dịch văn bản.
@@ -141,7 +104,7 @@ async def translate_with_api(session: aiohttp.ClientSession, text: str) -> Optio
     for attempt in range(MAX_RETRIES):
         try:
             async with session.post(
-                f"{API_BASE_URL}/chat/completions",
+                f"{API_BASE_URL}chat/completions",
                 headers=headers,
                 json=payload,
                 timeout=aiohttp.ClientTimeout(total=300)  # 5 phút timeout
@@ -164,11 +127,63 @@ async def translate_with_api(session: aiohttp.ClientSession, text: str) -> Optio
     return None
 
 
+def get_translation_status() -> tuple[list[Path], list[Path]]:
+    """
+    Kiểm tra trạng thái dịch của các chapters.
+    
+    Returns:
+        (pending_files, completed_files): Tuple chứa danh sách file chưa dịch và đã dịch
+    """
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    
+    all_files = sorted(INPUT_DIR.glob("ch*.txt"))
+    pending = []
+    completed = []
+    
+    for input_file in all_files:
+        output_file = OUTPUT_DIR / f"{input_file.stem}.vn.txt"
+        if output_file.exists():
+            completed.append(input_file)
+        else:
+            pending.append(input_file)
+    
+    return pending, completed
+
+
+def show_translation_status():
+    """
+    Hiển thị trạng thái dịch của các chapters.
+    """
+    pending, completed = get_translation_status()
+    total = len(pending) + len(completed)
+    
+    print("=" * 60)
+    print("  📊 TRẠNG THÁI DỊCH CHAPTERS")
+    print("=" * 60)
+    print(f"📁 Input: {INPUT_DIR}")
+    print(f"📁 Output: {OUTPUT_DIR}")
+    print("-" * 60)
+    print(f"✅ Đã dịch: {len(completed)}/{total}")
+    print(f"⏳ Chưa dịch: {len(pending)}/{total}")
+    
+    if pending:
+        print("\n📝 Danh sách chưa dịch:")
+        for i, f in enumerate(pending[:20], 1):  # Chỉ hiển thị 20 file đầu
+            print(f"   {i}. {f.stem}")
+        if len(pending) > 20:
+            print(f"   ... và {len(pending) - 20} file khác")
+    
+    print("=" * 60)
+    return pending, completed
+
+
 async def translate_chapter(
     semaphore: asyncio.Semaphore,
     session: aiohttp.ClientSession,
     input_file: Path,
-    output_file: Path
+    output_file: Path,
+    index: int,
+    total: int
 ) -> bool:
     """
     Dịch một chapter.
@@ -178,23 +193,26 @@ async def translate_chapter(
         session: aiohttp session
         input_file: File input
         output_file: File output
+        index: Số thứ tự chapter đang dịch
+        total: Tổng số chapters cần dịch
         
     Returns:
         True nếu thành công, False nếu lỗi
     """
+    chapter_name = input_file.stem
+    
+    # Kiểm tra nếu file đã dịch rồi (trước khi acquire semaphore)
+    if output_file.exists():
+        print(f"  ⏭️ [{index}/{total}] {chapter_name} - Đã dịch trước đó, bỏ qua.")
+        return True
+    
     async with semaphore:
-        chapter_name = input_file.stem
-        print(f"📖 Đang dịch {chapter_name}...")
+        print(f"📖 [{index}/{total}] Đang dịch {chapter_name}...")
         
         try:
             # Đọc file input
             with open(input_file, "r", encoding="utf-8") as f:
                 content = f.read()
-            
-            # Kiểm tra nếu file đã dịch rồi
-            if output_file.exists():
-                print(f"  ⏭️ {chapter_name} đã được dịch trước đó, bỏ qua.")
-                return True
             
             # Gọi API dịch
             translated = await translate_with_api(session, content)
@@ -203,14 +221,14 @@ async def translate_chapter(
                 # Lưu kết quả
                 with open(output_file, "w", encoding="utf-8") as f:
                     f.write(translated)
-                print(f"  ✅ {chapter_name} - Hoàn thành!")
+                print(f"  ✅ [{index}/{total}] {chapter_name} - Hoàn thành!")
                 return True
             else:
-                print(f"  ❌ {chapter_name} - Lỗi dịch!")
+                print(f"  ❌ [{index}/{total}] {chapter_name} - Lỗi dịch!")
                 return False
                 
         except Exception as e:
-            print(f"  ❌ {chapter_name} - Lỗi: {e}")
+            print(f"  ❌ [{index}/{total}] {chapter_name} - Lỗi: {e}")
             return False
 
 
@@ -218,17 +236,22 @@ async def translate_all_chapters():
     """
     Dịch tất cả chapters với 5 tiến trình song song.
     """
-    # Tạo thư mục output nếu chưa có
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    # Kiểm tra trạng thái trước
+    pending_files, completed_files = get_translation_status()
     
-    # Lấy danh sách files cần dịch
-    input_files = sorted(INPUT_DIR.glob("ch*.txt"))
-    
-    if not input_files:
+    if not pending_files and not completed_files:
         print("❌ Không tìm thấy file nào trong Chapters_Untranslated/")
         return
     
-    print(f"🚀 Bắt đầu dịch {len(input_files)} chapters với {MAX_CONCURRENT} tiến trình song song...")
+    total_all = len(pending_files) + len(completed_files)
+    
+    print(f"📊 Trạng thái: {len(completed_files)}/{total_all} đã dịch")
+    
+    if not pending_files:
+        print("✨ Tất cả chapters đã được dịch!")
+        return
+    
+    print(f"🚀 Bắt đầu dịch {len(pending_files)} chapters còn lại với {MAX_CONCURRENT} tiến trình song song...")
     print(f"📁 Input: {INPUT_DIR}")
     print(f"📁 Output: {OUTPUT_DIR}")
     print(f"🔗 API: {API_BASE_URL}")
@@ -237,12 +260,12 @@ async def translate_all_chapters():
     # Tạo semaphore để giới hạn concurrent
     semaphore = asyncio.Semaphore(MAX_CONCURRENT)
     
-    # Tạo session và dịch
+    # Tạo session và dịch - CHỈ dịch các file chưa hoàn thành
     async with aiohttp.ClientSession() as session:
         tasks = []
-        for input_file in input_files:
+        for i, input_file in enumerate(pending_files, 1):
             output_file = OUTPUT_DIR / f"{input_file.stem}.vn.txt"
-            task = translate_chapter(semaphore, session, input_file, output_file)
+            task = translate_chapter(semaphore, session, input_file, output_file, i, len(pending_files))
             tasks.append(task)
         
         # Chạy tất cả tasks
