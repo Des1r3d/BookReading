@@ -10,17 +10,29 @@ This guide covers deploying the book reading website to your VPS with nginx and 
 
 ## Deployment Steps
 
-### 1. Upload Website Files
+### 1. Clone from Git (Recommended)
 
 ```bash
-# Create website directory
-sudo mkdir -p /var/www/maxlevelpriest
-
-# Upload the website folder contents to /var/www/maxlevelpriest
-# Using SCP from your local machine:
-scp -r website/* user@your-vps-ip:/var/www/maxlevelpriest/
+# Clone repository to your VPS
+cd /var/www
+sudo git clone https://github.com/YOUR_USERNAME/Appdoctruyen.git maxlevelpriest
 
 # Set proper ownership
+sudo chown -R www-data:www-data /var/www/maxlevelpriest
+
+# Install Python dependencies for backend
+cd /var/www/maxlevelpriest
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r backend/requirements.txt
+```
+
+### Alternative: Upload via SCP
+
+```bash
+# If not using Git, upload manually:
+sudo mkdir -p /var/www/maxlevelpriest
+scp -r website/* user@your-vps-ip:/var/www/maxlevelpriest/
 sudo chown -R www-data:www-data /var/www/maxlevelpriest
 ```
 
