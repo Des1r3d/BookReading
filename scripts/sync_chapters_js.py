@@ -23,7 +23,7 @@ def sync_chapters_js():
     
     # Paths
     json_path = project_root / "website" / "data" / "chapters.json"
-    js_path = project_root / "website" / "js" / "chapters.js"
+    js_path = project_root / "website" / "books" / "max-level-priest" / "js" / "chapters.js"
     
     print(f"🔄 Syncing chapters.json to chapters.js...")
     print(f"   Source: {json_path}")
